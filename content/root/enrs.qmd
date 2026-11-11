@@ -1,0 +1,98 @@
+---
+title: Encuesta Nacional de Relaciones Sociales
+date: '2019-10-03T19:02:44'
+original_url: https://diegoteca.com.ar/enrs/
+subsite: root
+---
+
+![](https://diegoteca.com.ar/wp-content/uploads/2019/10/pisac.png)
+
+Encuesta Nacional sobre Relaciones Sociales – ENRS
+
+---
+
+#### Bienvenidos al sistema de carga de la Encuesta Nacional sobre Relaciones Sociales
+
+A continuación se anticipan algunas consideraciones generales sobre el sistema de carga. Luego, en complemento a lo anterior y ya dentro del sistema de carga, en la introducción de cada módulo del cuestionario se explicitan otras cuestiones más particulares de la carga de cada uno de los módulos.
+
+[Link al cuestionario en papel](https://www.luminpdf.com/viewer/5d9de717cffd3d0019d56de9)
+
+[Link al sistema de carga](https://diegoteca.com.ar/encuestas/index.php/459374?lang=es)
+
+[Comentarios al sistema de carga](https://docs.google.com/spreadsheets/d/1L7yqfbWfCIeQgJhfHM6OJBg7ZlIlGx36P4BgYfatsPo/edit#gid=0)
+
+[Link para ver y chequear la carga individual de casos](https://diegoteca.com.ar/encuestas/index.php/admin/responses/sa/browse/surveyid/459374) (Se necesita usuario y contraseña)
+
+El link anterior puede servir para chequear de forma individual si se grabó (o no) tal o cual encuesta específica. Por ejemplo, si efectivamente se grabó la encuesta que un data entry acaba de cargar. Allí cada caso es una fila y se puede ordenar por fecha.
+
+[Para ver cantidad de encuestas por encuestador](https://diegoteca.com.ar/encuestas/index.php/statistics_user/action/surveyid/459374)
+
+El link anterior puede servir para chequear la cantidad total de encuestas cargadas y grabadas. Toma como indicador la primera pregunta que hace referencia a la identificación del dataentry por lo que también sirve a fines administrativos para la coordinación de la carga.
+
+#### Consideraciones generales del diseño del sistema de carga
+
+Cualquier **sistema de carga digital** que se construya para realizar la carga de datos de un **cuestionario en papel** suele presentar una distancia estética apreciable entre uno y otro. Si bien esto es un problema en sí mismo, se asume que el alejamiento estético se justifica en función de algún criterio que, usualmente, es una función entre
+
+**a)** la velocidad de carga
+
+**b)** la reducción de los errores de la carga y
+
+**c)** la conformación final de la/s matrices de datos.
+
+Este sistema no es la excepción. A modo de ejemplo, de las 60 preguntas visualmente distinguibles en el cuestionario en papel se han transformado en 315 en el sistema de carga.
+
+En este sentido el sistema de carga oscila en secciones (o en algunos casos en módulos enteros) relativamente parecidos al cuestionario en papel con otros en donde la distancia es apreciable.
+
+La similitud es notoria en:
+
+**a)** Varias preguntas en donde se mantiene el sistema de categorías (alfabético) del cuestionario por la razón que en el papel no se habían introducido códigos (numéricos) o
+
+**b)** En donde la propia pregunta original es intrínsecamente numérica (PE ¿Cuántos años tiene?)
+
+Por otro lado en casi todas las preguntas se mantiene el número y texto original del cuestionario lo que ayuda a (volver a) ubicarse más rápido en caso de perderse visualmente.
+
+La distancia es notoria en:
+
+**a)** En las preguntas en donde habiendo un sistema de categorías alfabético (y su respectivo código) en el cuestionario se pasa a un sistema de categorías numérico en donde sólo se ingresa el código y no es visible las categorías alfabéticas. Es el caso mayoritario.
+
+**b**) Los «saltos» del cuestionario. Aquí, por una cuestión de consistencia, se prefiere que directamente no aparezcan las preguntas en donde, en función de algún dato anterior, no corresponde cargar dato alguno.
+
+Entrando a cuestiones más específicas de este cuestionario se han creado 17 módulos de cargas diferentes. En general se ha respetado la distinción de los módulos del cuestionario (10) pero se han agregado 1 de identificación y otros tantos (6) para diseccionar en partes más pequeñas algunos módulos que en el papel eran muy largos. Estos últimos, usualmente, coinciden con algún cambio de hoja del cuestionario en papel.
+
+**Cuestiones generales de la dinámica de la carga**
+
+En una amplia mayoría de casos, apretando la tecla «enter» se pasa a la siguiente pregunta. En los casos en donde el «enter» no funciona, se puede pasar a la siguiente pregunta con el mouse (o con el dedo en caso de pantallas táctiles). La tecla «tab», aunque algo incómoda, siempre funciona.
+
+Cada pregunta suele contener alguna ayuda que indica que tipo o rango de datos espera. Usualmente esta ayuda aparece debajo de la pregunta.
+
+La mayoría de las preguntas son obligatorias (tiene un \*) y muchas tienen validaciones internas. Esto implica que no se puede avanzar hasta el próximo módulo sin antes completar (o corregir en caso que la respuesta cargada no haya pasado la validación) la/s preguntas marcadas en rojo. Sí se puede seguir cargando hasta el fin del mismo módulo que se está cargando. En cada fin de módulo aparece un botón que dice «Siguiente». Para efectivamente pasar al siguiente módulo todas las preguntas obligatorias deben tener algún valor y todas las preguntas que tienen validaciones internas deben haber pasado esa validación.
+
+En el léxico del SPSS o del PSPP, en cada pregunta aparece, primero a la izquierda, el nombre de la variable y segundo más a la derecha, la etiqueta de la misma. Siempre que no implicara algún otro problema se respetó tanto el nombre como la etiqueta que existía en el cuestionario en papel.
+
+---
+
+[Enlace a la versión beta de cada uno de los módulos de carga](https://diegoteca.com.ar/enrs_beta/)
+
+---
+
+**Descargas parciales**
+
+Descarga 17/09/20 [Archivo completo e incompletos.sav](https://drive.google.com/file/d/1vHeMNhWe9zBHFYWYD38zlk2QNqiaVk3J/view?usp=sharing) ((Incluye los 40 casos de antes del 13/11/19)
+
+Descarga 17/09/20 [Archivo sólo completo.sav](https://drive.google.com/file/d/1by9Mnn2DvJd73-HxT6fDvaUm8mjyqQkH/view?usp=sharing) (NO Incluye los 40 casos de antes del 13/11/19)
+
+Descarga 17/09/20 [Archivo sólo incompleto.sav](https://drive.google.com/file/d/12t_wMKHFi_AvBsi7lyxB3feZ7BYFVT_e/view?usp=sharing) (NO Incluye los 40 casos de antes del 13/11/19)
+
+---
+
+Descarga 21/08/20 [Archivo.sav](https://drive.google.com/file/d/18-4A573o44zvrmjgo3tqBQxtl4GebpxS/view?usp=sharing) (Incluye los 40 casos de antes del 13/11/19)
+
+---
+
+Descarga 15/11/19 [Archivo.sav](https://drive.google.com/file/d/1BkwYRbklk8OvH0LyQwwe5vJxZGDUrCsi/view?usp=sharing) (Se agrega una variable)
+
+---
+
+Descarga 13/11/19 [Archivo.sav](https://drive.google.com/file/d/1NFSOo4U8jc4w3czPbhcHtqIxGTcPJNwT/view?usp=sharing)   [Archivo.xls](https://drive.google.com/file/d/1dTvsswxBWedMwzu5m8Ar2ky68oG6iKE-/view?usp=sharing) (Faltaba una variable)
+
+Tabla base de datos: dq\_old\_459374\_20191114001238 (uso interno)

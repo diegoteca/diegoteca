@@ -1,0 +1,78 @@
+---
+title: Sistema de carga
+date: '2019-08-17T22:10:13'
+original_url: https://diegoteca.com.ar/usomedicamentos/sistema-de-carga/
+subsite: usomedicamentos
+---
+
+## Bienvenidos al sistema de carga de la Encuesta Domiciliaria sobre uso de medicamentos realizada por el Programa de Salud Comunitaria de la Universidad Nacional Arturo Jauretche
+
+A continuación se presenta acceso a los diferentes formularios de carga de cada módulo. A la derecha de cada uno de ellos se encuentra un link en donde se puede chequear si el caso efectivamente fue guardado. Para acceder a este dato, en cualquier módulo, el usuario es «admin\_uso\_medicamentos» y la contraseña será proporcionada por el director del proyecto.
+
+1. [Formulario 1 **Hogares y Viviendas**](https://diegoteca.com.ar/encuestas/index.php/34519?lang=es) // [Chequear carga 1](https://diegoteca.com.ar/encuestas/index.php/admin/responses/sa/browse/surveyid/34519)
+
+2. [Formulario 2 **Personas con alguna enfermedad**](https://diegoteca.com.ar/encuestas/index.php/47435?lang=es) // [Chequear carga 2](https://diegoteca.com.ar/encuestas/index.php/admin/responses/sa/browse/surveyid/47435)
+
+3. [Formulario 3 **Consumo de medicamentos**](https://diegoteca.com.ar/encuestas/index.php/29624?lang=es) // [Chequear carga 3](https://diegoteca.com.ar/encuestas/index.php/admin/responses/sa/browse/surveyid/29624)
+
+4**.** [Formulario 4 **Autoconsumo**](https://diegoteca.com.ar/encuestas/index.php/753718?lang=es) // [Chequear carga 4](https://diegoteca.com.ar/encuestas/index.php/admin/responses/sa/browse/surveyid/753718)
+
+---
+
+## Características generales e instrucciones específicas a tener en cuenta en el momento de carga
+
+---
+
+Dado a) el diseño del cuestionario en papel y b) las diferentes unidades de análisis, se diseño un sistema de carga con las siguientes características:
+
+1. En principio se construyeron módulos de carga diferenciados para las diferentes unidades de análisis salvo que,
+
+1.1 A pesar de tratarse diferentes unidades de análisis tienen una relación «1 a 1». Por ejemplo, si se selecciona 1 hogar este se relaciona con una (y sólo una) vivienda. En esos casos, tanto los datos de vivienda como de hogar se cargan en un mismo formulario y posteriormente se guardarán físicamente en una misma tabla que facilitará los análisis.
+
+2. Se realizaron pequeños cambios en el orden de carga con respecto al orden visible del cuestionario para facilitar análisis posteriores. Esto se hizo para preservar lo dicho en el punto 1. Por ejemplo, cada una de las preguntas que se encuentran al inicio de los cuadros de:
+
+.Personas con alguna enfermedad
+
+.Consumo de medicamentos
+
+.Interrupción o cese de consumo de medicamentos
+
+.Automedicación
+
+Ya que hacen referencia al conjunto del hogar se cargan en el módulo de carga del hogar y la vivenda que es con el cual se comienza la carga.
+
+3. El orden de carga estipulado es el siguiente:
+
+3.1 Se comienza por esta misma página que se está leyendo y luego se pasa a completar el primer formulario 1 que es el correspondiente a las preguntas de hogar y vivienda. En este caso se carga un formulario por cuestionario. No hay más de un hogar ni más de una vivienda por cuestionario.
+
+3.2 Este primer formulario es el que más datos identificatorios del cuestionario solicita. Se debe carga tanto el n° de cuestionario, n° de punto muestra, nombre de encuestador y la fecha de la encuesta. Esto permitirá relacionar datos para el análisis y datos útiles para la gestión del trabajo de campo.
+
+3.3 Luego de cargar el formulario 1, si hay personas con alguna enfermedad, se debe pasar el formulario 2. En su defecto, se pasa directamente al formulario de «Automedicación».
+
+3.4 Al principio de este formulario hay una serie de preguntas que luego van a permitir relacionar los datos de ambos formularios para realizar distintos análisis. Este formulario se carga tantas veces como relaciones únicas entre «personas-enfermedad» se hayan registrado por cuestionario. 
+
+3.5 Por ejemplo, si en el cuestionario hay 2 personas y  cada una tiene una sola enfermedad, este formulario se debe cargar sólo 2 veces.
+
+3.6 Si en cambio hay sólo 1 persona y esta tiene 2 enfermedades (p.e. diabetes e hipertensión) el formulario se debe cargar 2 veces para ese cuestionario, repitiendo en cada carga el mismo n° de persona.
+
+4. Luego de cargar el formulario 2 sobre «personas con alguna enfermedad» se pasa a cargar el formulario 3 sobre «consumo de medicamentos».
+
+4.1 Aquí es importante cargar, aparte de los datos identificatorio del cuestionario (n° de cuestionario y n° de radio) los datos que permiten la identificación de la persona específica que consume el medicamento (n° de persona).
+
+4.2 Aquí se debe cargar un formulario por cada medicamento consumido. Como se detalla en 4.5, en esta misma formulario se detalla si en algún momento del período preguntado se interrumpió o cesó de consumir es medicamento.
+
+4.3 Por ejemplo, si en el cuestionario hay 2 personas y  cada una tiene una sola enfermedad y cada enfermedad tiene un sólo medicamento, este formulario se debe cargar sólo 2 veces.
+
+4.4 Si hay sólo 1 persona y esta tiene 2 enfermedades (p.e. diabetes e hipertensión) y toma 2 medicamentos para la diabetes (insulina y diabesil) y 1 para la hipertensipión (adalat) se debe cargar 3 veces el formulario para ese cuestionario.
+
+4.5 Al final de este formulario se agregan las preguntas que en papel corresponden al siguiente cuadro sobre «interrupción o cese de consumo de medicamento». La razón es que se asume que toda interrupción o cese de consumo es de algún medicamento que en algún momento se consumió por lo que debe tener su respectiva «fila» en el formulario 3 sobre «consumo de medicamentos». Esta operación facilita posteriores análisis.
+
+5. Luego de cargar el formulario 3 sobre «consumo de medicamentos» se pasa al formulario 4 sobre «automedicación».
+
+5.1 Aquí, como una persona podría «autoconsumir» medicamentos que no se asocian con algún problema de salud o enfermedad crónica, se prefiere introducirlos en un nuevo formulario.
+
+5.2 Nuevamente hay que cargar los datos identificatorios del cuestionario (n° de cuestionario y n° de punto muestra) y el respectivo n° de persona.
+
+5.3 Incorporar el n° de persona al cuadro de automedicación permirá determinados análisis como por ejemplo:
+
+5.4 Saber si hay diferencia por género o por edad en la automedicación.

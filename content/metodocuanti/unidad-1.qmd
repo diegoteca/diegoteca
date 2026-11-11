@@ -1,0 +1,33 @@
+---
+title: Unidad 1 – Delimitación del tema, selección del marco teórico, explicitación
+  de los objetivos y construcción del diseño de la investigación
+date: '2017-03-21T17:33:56'
+original_url: https://diegoteca.com.ar/metodocuanti/unidad-1/
+subsite: metodocuanti
+---
+
+El objetivo de esta unidad es incorporar el supuesto básico que toda *investigación empírica* en general viene a responder alguna pregunta o resolver algún problema, surgid@ a la luz (y sombra) de algún supuesto y/o hipótesis que refiere a una porción de la realidad. En el caso específico de una *investigación científica empírica*estas preguntas o problemas suelen ser compartidas por una comunidad de investigadores.
+
+La formulación de la *pregunta-problema* de una investigación supone la resolución de algunos pasos anteriores y permite darle racionalidad a otros pasos posteriores. Especialmente (pre)supone la (de)limitación de un tema de investigación en combinación con algún(os) marco(s) teórico(s). Luego, si le agrega la explicitación de las metas o propósitos hacia donde esperar acercarse (objetivos generales) y llegar (objetivos específicos) ya se encuentra en condiciones de seleccionar que *diseño* de investigación puede ser más útil para sus objetivos.
+
+Esquemáticamente, una vez resueltos los pasos anteriores el investigador podrá seleccionar con más criterio el diseño y la metodología a seguir. Como reza el nombre de la materia, aquí se analizaran preferentemente aquellos diseños y metodologías (y algunas de sus respectivas técnicas) que la bibliografía suele denominar como ‘cuantitativ@s’, esto es, que tiene que ver con cantidades.
+
+Algunas de los temas que se verán en esta unidad pueden considerarse un breve repaso de lo visto en la última parte de la materia de Conocimiento Científico. Si quieren volver a consultar el libro lo pueden hacer [acá](https://drive.google.com/file/d/0B2chaN7IisSTclJ4cFo5MzJCTXM/view?usp=sharing).
+
+Bibliografía Obligatoria:
+
+* [Acerca de lo que es y no es investigación en ciencias sociales. Capítulo 8 de La Trastienda de la Investigación Social (Sautu R., 2001) ![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MUmpXWFlNSmF3TjA)
+* [La organización de la investigación. Capítulo 3 de Metodología Cuantitativa (Cea D’Ancona M., 2001)](https://drive.google.com/open?id=0BzS2QMlM5o5MU294VkhQUzdwOWs) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MU294VkhQUzdwOWs)
+* [El diseño de la investigación. Capítulo 4 de Fundamentos de la Investigación Social (Babbie E., 2000)](../../media/metodocuanti/Babbie.pdf) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MUmpXWFlNSmF3TjA)
+* [Representatividad, aleatorización y realismo. Extracto Capítulo 1 de Diseño Estadístico de la Investigación (Kish L., 1995)](https://drive.google.com/file/d/1Vt8ExE6oFyroe4AciF-przQQkVOaevPi/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MUmpXWFlNSmF3TjA)
+* [Manual de citas y referencias bibliográficas (Pérez M., et. al., 2015)](https://drive.google.com/file/d/1fj2vBoZTii0zeq2tJgjMZm3Q4G1gJSYV/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MU294VkhQUzdwOWs)
+
+Bibliografía Complementaria:
+
+* [Video introductorio sobre Paradigma Cuantitativo – Extracto Serie Cosmos Capítulo 11 (Sagan C., 1980)](https://drive.google.com/file/d/0B2chaN7IisSTbVd5RWV2TmNrNWs/view?usp=sharing)[![](../../media/metodocuanti/video-30-e1502475242195.png)](https://drive.google.com/file/d/0B2chaN7IisSTbVd5RWV2TmNrNWs/view?usp=sharing)
+* [Similitudes y diferencias entre los enfoques cuantitativo y cualitativo. Capítulo 1 de Metodología de la Investigación (Hernández Sampieri R.,2006)](https://drive.google.com/open?id=0BzS2QMlM5o5MZ1VRVjNqWGNOVUE) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MZ1VRVjNqWGNOVUE)
+* [Planteamiento del problema cuantitativo. Capítulo 3 de Metodología de la Investigación (Hernández Sampieri R., 2006)](https://drive.google.com/open?id=0BzS2QMlM5o5MM3U5NXZuMVRETEU) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MM3U5NXZuMVRETEU)
+
+**Glosario Unidad 1**
+
+Dado el tipo de información contenida en las fichas, donde dice ‘Elige un modo de estudio’ (abajo a la derecha) conviene seleccionar la opción ‘probar’. De esta manera, una vez leídas las fichas, podrán practicar y así colaborar a recordar el contenido de las mismas.

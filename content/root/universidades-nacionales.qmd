@@ -1,0 +1,36 @@
+---
+title: Universidades Nacionales
+date: '2019-08-31T03:45:53'
+original_url: https://diegoteca.com.ar/universidades-nacionales/
+subsite: root
+---
+
+Comentarios generales:
+
+---
+
+Como ubicación de las Universidades se tomó como el criterio de la ubicación de los rectorados. Es claro que esto trae problemas para universidades que tienen sedes con mucha distancias entre sí como la UTN y Río Negro.
+
+---
+
+En los mapas sólo se analizan las UUNN. No se incluyen los institutos universitarios ni las universidades provinciales.
+
+---
+
+Todos los mapas son interactivos. Se puede jugar con el zoom y en algunos pasando el mouse por arriba de un punto o cliqueando en él, suele aparecer un cartel que aporta información específica sobre ese punto.
+
+---
+
+Mapa 1
+
+---
+
+Mapa 2
+
+---
+
+Mapa 3
+
+---
+
+Mapa 4

@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Diegoteca"
+  description: "Archivo digital, investigación y docencia de Diego Quartulli"
+  navbar:
+    background: primary
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Investigación"
+        menu:
+          - text: "Tesis Doctoral"
+            href: content/root/tesis-doctoral.qmd
+          - text: "ENRS"
+            href: content/root/enrs.qmd
+          - text: "Nodocentes"
+            href: content/root/nodocentes.qmd
+          - text: "Universidades Nacionales"
+            href: content/root/universidades-nacionales.qmd
+      - text: "Docencia"
+        menu:
+          - text: "Metodología Cuantitativa"
+            href: content/metodocuanti/inicio.qmd
+          - text: "Sociología del Trabajo"
+            href: content/sociologiadeltrabajo/inicio.qmd
+      - text: "Proyectos UNAJ"
+        menu:
+          - text: "Muestra UNAJ"
+            href: content/muestra-unaj/inicio.qmd
+          - text: "Encuesta Socioeducativa"
+            href: content/encuestasocioeducativa2016/bienvenida.qmd
+          - text: "Preferencias y Capital Social"
+            href: content/preferenciasycapitalsocial/inicio.qmd
+          - text: "Uso de Medicamentos"
+            href: content/usomedicamentos/uso-de-medicamentos.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    css: styles.css

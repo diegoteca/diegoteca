@@ -1,0 +1,29 @@
+---
+title: Unidad 4 – Análisis de los datos
+date: '2017-04-29T18:51:02'
+original_url: https://diegoteca.com.ar/metodocuanti/unidad-4/
+subsite: metodocuanti
+---
+
+El objetivo de esta unidad es poder mejorar la capacidad de sintetizar la información contenida en los datos. Dada la tendencia analítica del enfoque cuantitativo, esto es, de intentar descomponer un fenómeno complejo mediante varias observaciones más simples de muchos casos, se vuelve imperioso, posteriormente en el momento de análisis de los datos, tener a mano algo que luego colabore en resumir la gran cantidad de datos producidos.
+
+De este modo, se presentan conceptos muy genéricos como el de matriz de datos, que no sólo ayuda a clarificar algunos conceptos, sino que también ayuda a ordenar los datos pro, sugiriendo un modo particular de cargar/guardar la información. La matriz de datos usualmente no es el modo más simple de cargar y guardar la información pero sí es un modo muy flexible para luego, desde ella, convertir la información en cuadros, matrices, etc. y realizar diferentes transformaciones a los datos.
+
+En este camino de sintetizar la información producida en nuestra investigación, la estadística es una gran aliada. Por esta razón, en esta unidad se verán algunos conceptos básicos de la misma. Lo mismo puede decirse de las distintas formas de graficar los resultados de los análisis.
+
+**Bibliografía Obligatoria:**
+
+* [Noción y estructura del dato (Abritta G., 1999)](https://drive.google.com/file/d/0B2chaN7IisSTaUFKRmktWFd4d1U/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTaUFKRmktWFd4d1U/view?usp=sharing)
+* [El análisis bivariable. Cap. 15 de Metodología de las Ciencias Sociales (Marradi A., – Archenti N. – Piovani J., 2007)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
+* [El análisis de los datos. Cap. 9 de Metodología Cuantitativa (Cea D’Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTbDB1UnFZSk9rOHc/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
+* [Análisis descriptivo de datos con una variable. Capítulo III.3 en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015)](https://drive.google.com/file/d/12PV_3LUN4u0NTCxjsBeyoMUvbMWjqHMt/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
+* [Uso de tablas dinámicas con Excel (Paredes – Pla, 2017)](../../media/metodocuanti/Análisis-de-datos-con-tablas-dinámicas-en-Excel-Cuantitativa-2018.pptx)[![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/04/powerpoint-150x150.jpg)](https://drive.google.com/file/d/0B2chaN7IisSTbDB1UnFZSk9rOHc/view?usp=sharing)
+
+**Bibliografía Optativa:**
+
+* [Fundamentos de estadística inferencial. Capítulo III.4 en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015)](https://drive.google.com/file/d/1DLXUbcAH6CAp5Wky--gOy8qImcU7TFv0/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
+* [Análisis de tablas de contingencia. Capítulo III.6 en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)](https://drive.google.com/file/d/1FQa6zLgfse4zUoRELC4aoVc4U489yNxE/view?usp=sharing)
+
+**Glosario Unidad 4**
+
+Dado el tipo de información contenida en las fichas, donde dice ‘Elige un modo de estudio’ (abajo a la derecha) conviene seleccionar la opción ‘probar’. De esta manera, una vez leídas las fichas, podrán practicar y así colaborar a recordar el contenido de las mismas.

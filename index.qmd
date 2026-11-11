@@ -1,0 +1,28 @@
+---
+title: "Diegoteca"
+subtitle: "Archivo digital, docencia e investigación"
+---
+
+Bienvenido al archivo digital de **Diegoteca**.
+
+Este sitio reúne y preserva los contenidos, programas docentes, investigaciones y materiales producidos a lo largo de los años en formato estático, reproducible y abierto.
+
+---
+
+### Secciones principales
+
+- **Investigación**:
+  - [Tesis Doctoral](content/root/tesis-doctoral.qmd): *Efectos de origen de clase en la Argentina (1955-2001)*.
+  - [ENRS](content/root/enrs.qmd): Encuesta Nacional de Relaciones Sociales.
+  - [Nodocentes](content/root/nodocentes.qmd): Condiciones de trabajo y trayectorias.
+  - [Universidades Nacionales](content/root/universidades-nacionales.qmd): Datos e indicadores universitarios.
+
+- **Docencia**:
+  - [Metodología Cuantitativa](content/metodocuanti/inicio.qmd): Programa, cronogramas, unidades 1 a 4 y trabajos prácticos integradores.
+  - [Sociología del Trabajo](content/sociologiadeltrabajo/inicio.qmd): Programa, clases teóricas y lecturas.
+
+- **Proyectos y Relevamientos UNAJ**:
+  - [Muestra UNAJ](content/muestra-unaj/inicio.qmd): Diseño de muestra en Florencio Varela.
+  - [Encuesta Socioeducativa 2016](content/encuestasocioeducativa2016/bienvenida.qmd): Trabajo Social.
+  - [Preferencias Sociales y Capital Social](content/preferenciasycapitalsocial/inicio.qmd): Protocolo experimental y mediciones.
+  - [Uso de Medicamentos](content/usomedicamentos/uso-de-medicamentos.qmd): Programa Salud Comunitaria.

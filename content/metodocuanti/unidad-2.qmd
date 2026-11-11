@@ -1,0 +1,58 @@
+---
+title: Unidad 2 – Operacionalización. Conceptualización y Observación
+date: '2017-03-21T19:28:31'
+original_url: https://diegoteca.com.ar/metodocuanti/unidad-2/
+subsite: metodocuanti
+---
+
+1. El objetivo de esta unidad es una introducción, específicamente dentro del ámbito de las ciencias sociales, al problema de la relación entre:
+
+1.1) Por un lado la realidad y los conceptos y
+
+1.2) Por otro lado nuestras operaciones empíricas que luego se registran en una matriz de datos
+
+1.1 Cuando un concepto predica sobre algo que no es directamente observable (al menos dentro del contexto de nuestra investigación empírica), se hecha a mano a indicadores para hacer observable lo inobservable. Estos suelen (o por lo menos deberían) encontrarse guiados por un proceso de conceptualización previa que no sólo distinga diferentes conceptos, sino que los dote de un significado transparente, esto es, que les otorgue:
+
+1.1.1) referencia («sobre qué/quién predica») y
+
+1.1.2) sentido («qué dice sobre qué/quién»)
+
+Luego de lo anterior, que pueden entenderse como actividades conceptuales (o conceptualización) viene la unión con las actividades empíricas que hablamos antes. Cuando a la conceptualización se les agregan las operaciones empíricas se dice que se ha «operacionalizado» el concepto. A todo el proceso se lo suele denominar ‘operacionalización’.
+
+1.2 Dentro de una investigación científica se dice que hay experiencias porque se realizan operaciones empíricas. Para nuestro fin por ahora es útil distinguir entre:
+
+1.2.1) las operaciones empíricas observacionales como por ejemplo clasificar, ordenar y medir.
+
+1.2.2) las operaciones empíricas experimentales. Ejemplos del segundo tipo es cualquier operación empírica en donde se ejerza un control intencional y deliberado, que se utiliza para:
+
+1.2.2.1) para intervenir y provocar un cambio de la realidad (como en un experimento) o para
+
+1.2.2.2) sólo poder hacer cualquiera de las operaciones empíricas observacionales en esa nueva situación (como en un laboratorio) .
+
+Con estos simples ladrillos luego se pueden construir experiencias más complejas.
+
+1. En función del tipo de concepto y del tipo de operación empírica, existen muchas alternativas y recursos ingeniosos para no sólo lograr hacer observable lo inobservable a través del algún indicador, sino también para:
+
+2.1) Ayudado de algún protocolo de observación, efectivamente observar lo observable con una aceptable sensibilidad y/o especificidad.
+
+2.2) Ayudado de alguna técnica de medición, efectivamente medir lo medible con una aceptable precisión y confiabilidad.
+
+Si, ahora al menos dentro del contexto de un campo de estudio o disciplina determinada, ninguna de las estrategias anteriores funciona, algunos epistemólogos afirman que el concepto en cuestión (todavía) se encuentra dentro de la «zona teórica». En cambio en el preciso momento en que se operacionaliza un concepto en determinada disciplina se dice que esta disciplina aumentó su «base empírica». Usualmente las investigaciones que logran aumentar la base empírica de una disciplina son investigaciones que explíctamente suelen tener objetivos metodológicos más que sustantivos.
+
+**Bibliografía:**
+
+* [Conceptualización y Medición. Capítulo 5 de Fundamentos de la Investigación Social (Babbie E., 2000)](https://drive.google.com/open?id=0BzS2QMlM5o5MY00tSnJxN2xlTTA) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MY00tSnJxN2xlTTA)
+* [Cualidad, cantidad, seudocantidad y medición en las ciencias sociales. Extracto capítulo 4 de la Relación entre la filosofía y la sociología (Bunge M., 2000)](https://drive.google.com/file/d/1jUhyotSjYoSZKLD5uRw_ot6y-XKC77hb/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MY00tSnJxN2xlTTA)
+* [Operacionalización. Capítulo 6 de Fundamentos de la Investigación Social (Babbie E., 2000)](https://drive.google.com/open?id=0B2chaN7IisSTUDVIazN2dHpzaU0) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0B2chaN7IisSTUDVIazN2dHpzaU0)
+* [La operacionalización de conceptos. Capítulo 4 de Metodología Cuantitativa (Cea D´Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTSGUxeWxPOGFWQmM/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0B2chaN7IisSTUDVIazN2dHpzaU0)
+* [La investigación mediante encuestas. Capítulo 7 de Metodología Cuantitativa (Cea D´Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTSW10Snh3RnlnT1k/view?usp=sharing) [**![](../../media/metodocuanti/pdf.png)**](https://drive.google.com/file/d/0B2chaN7IisSTSW10Snh3RnlnT1k/view?usp=sharing)
+
+**Aplicaciones y ejemplos:**
+
+* [Eratóstenes y la medición de la circunferencia de la tierra](https://diegoteca.com.ar/metodocuanti/?p=188) ![](../../media/metodocuanti/video-30-e1502475242195.png)
+* [Ejemplo de conceptualización de Clase Social (Quartulli D., 2016)](https://drive.google.com/file/d/0B2chaN7IisSTbENHT01Ma1d6MFU/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing)
+* [Ejemplo de operacionalización sobre Clase Social (Quartulli D., 2016)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing)
+
+**Glosario Unidad 2**
+
+Dado el tipo de información contenida en las fichas, donde dice ‘Elige un modo de estudio’ (abajo a la derecha) conviene seleccionar la opción ‘probar’. De esta manera, una vez leídas las fichas, podrán practicar y así colaborar a recordar el contenido de las mismas.

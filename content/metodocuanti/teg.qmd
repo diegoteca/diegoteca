@@ -1,0 +1,17 @@
+---
+title: TEG
+date: '2017-08-10T01:02:39'
+original_url: https://diegoteca.com.ar/metodocuanti/teg/
+subsite: metodocuanti
+---
+
+El trabajo integrador grupal (TIG) consta de una serie de entregas sucesivas en las cuales se espera que cada grupo logre avances sustantivos en las siguientes dimensiones:
+
+1. Delimitación del problema, explicitación de los objetivos, selección del marco teórico.
+2. Explicitación del diseño de investigación.
+3. Construcción de un instrumento de producción de datos.
+4. Seleccionar mediante algún criterio explícito y razonable a los componentes de la muestra.
+5. Construir una matriz de datos, cargarla con los datos de la salida a campo y realizar un análisis de los mismos.
+6. Realizar una presentación que resuma todo lo anterior.
+
+* [![](../../media/metodocuanti/pdf.png) Consignas Trabajo Práctico Integrador](https://docs.google.com/document/d/1s708G1l680z0pLTjhMH4RMig-VLHbYqPsrTpKRe2Z10/edit)

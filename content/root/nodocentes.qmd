@@ -1,0 +1,48 @@
+---
+title: Nodocentes – UNAJ
+date: '2019-06-28T15:53:34'
+original_url: https://diegoteca.com.ar/nodocentes/
+subsite: root
+---
+
+## Información útil para hacer el trabajo práctico grupal de la TGU
+
+### [Encuesta](https://docs.google.com/document/d/1RZa7M8tSdmxabWKWE0ggQvrZhcuBLaKS7bMrRKskD6E/edit?usp=sharing)
+
+### [Padrón Nodocente](https://docs.google.com/spreadsheets/d/1ALCSlTpUbY1T_9Do0F0NgPwKEhBArozbwXDenLmjg5w/edit?usp=sharing)
+
+### [Sistema de carga](https://diegoteca.com.ar/encuestas/index.php/48998?newtest=Y&lang=es)
+
+### [Lista de Nodocentes cargados por fecha](https://docs.google.com/spreadsheets/d/1Gsc1JtaZLtoFqnZXxLsc98cZK-w_6wunsjeUl44djYA/edit?usp=sharing)
+
+### [Base de datos](https://docs.google.com/spreadsheets/d/1hN5FgcZCawYBgjjMiiRCL7lKaHitWMtxdnf_iT_jqkg/edit#gid=876836010)
+
+## Acceso a los trabajos de cada grupo
+
+### [Eje Sociodemográfico](https://docs.google.com/document/d/1SrbiF_tFpY7k4iY3WjOSFmw5pDOE_uDLdZ4Vl8Vdjs4/edit?usp=sharing)
+
+### [Eje Origen Social](https://docs.google.com/document/d/1W5XT-Y-f1v1tVUdroDawD-PWVVpwVxKfMfTiK18Z7-w/edit?usp=sharing)
+
+### [Eje Experiencia Laboral](https://docs.google.com/document/d/1Emx7JUDeG_zBWUjOA1sRPF5cU-ml6enn9csuh9gIh_4/edit?usp=sharing)
+
+### [Eje Educación](https://drive.google.com/file/d/1JZxY73Q-P09WmBEWdgoYYnE15xwJ3Wi_/view?usp=sharing)
+
+### [Eje Hogar](https://docs.google.com/document/d/17zyb9bufHR1yV753VXoxqTDZ2Kw-ZJ_bq2A9ZwdJvGI/edit?usp=sharing)
+
+### [Eje Trabajo Actual](https://docs.google.com/document/d/1jLEJvRuG7Z9KstSHEHgJheJmOU4Vy5KZfhOjo0J1q0Y/edit?usp=sharing)
+
+## Mapas
+
+## Nubes de palabras
+
+Total
+
+![](https://diegoteca.com.ar/wp-content/uploads/2019/07/wordcloud_total-1024x640.png)
+
+Mujeres
+
+![](https://diegoteca.com.ar/wp-content/uploads/2019/07/wordcloud_mujer-1024x640.png)
+
+Varones
+
+![](https://diegoteca.com.ar/wp-content/uploads/2019/07/wordcloud_varon-1024x640.png)

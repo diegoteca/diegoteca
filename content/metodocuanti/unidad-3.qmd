@@ -1,0 +1,37 @@
+---
+title: Unidad 3 – Universo, Población y Muestra
+date: '2017-04-05T11:06:40'
+original_url: https://diegoteca.com.ar/metodocuanti/unidad-3/
+subsite: metodocuanti
+---
+
+El objetivo de esta unidad es tomar consciencia que, desde un punto de vista epistemológico, la mayoría de las teorías, a través de sus conceptos, predican, no sólo sobre **propiedades** (o **variables** en sentido metodológico como se vió en la unidad 2) sino también sobre propiedades que se atribuyen a determinados **referentes** (o **unidades de análisis** en sentido metodológico como se verá en esta unidad).  Precisamente, la **clase de referencia** de un concepto puede considerarse como el conjunto de objetos sobre los que el concepto refiere, y estos incluyen a los objetos que poseyeron, poseen y poseerán las propiedades que el concepto les atribuye. Desde un punto de vista metodológico a esto último se lo suele denominar **universo**.
+
+En nuestra vida cotidiana, aún si somos investigadores científicos profesionales, (usualmente) sólo tenemos posibilidad de acceso empírico a un subconjunto de aquel universo. A esto se lo suele llamar **población empírica**. Para empeorar las cosas, algunas (muchas!) poblaciones son muy numerosas, heterogéneas y/o otras se encuentran muy separadas espacialmente lo que dificulta y hace onerosa llegar a cada uno de los componentes de aquellas. Ante esta situación el investigador tiene 2 grandes opciones:
+
+a) Se ajustan los objetivos de las investigación, especialmente en lo tocante al grado de generalidad de la investigación, hasta un punto que efectivamente se pueda indagar a una población más pequeña en toda su amplitud. Esta estrategia algunas veces hace que a1) la población seleccionada se encuentre sumamente sesgada como evidencia a favor o en contra del ‘universo’ que predica la teoría, o a2) la investigación pierda relevancia ya que las respuestas no contestan preguntas de la comunidad de investigadores.
+
+b) Se realiza una muestra de aquella población empírica.
+
+En este sentido, en esta unidad se le dedicará bastante atención a las estrategias tipo ‘b’ como un modo de con ‘poco’ inferir ‘bastante’, aun cuando no se sepa a ciencia cierta si ese ‘bastante’ es ‘suficiente’. En otras palabras, se verán las distintas características de los diferentes tipos de muestras que aspiran a algún grado de **representatividad** y comprender cual de ellos puede ser más idóneo para los objetivos de las diferentes investigaciones.
+
+**Bibliografía Obligatoria:**
+
+* [Conceptos de Objeto y de Unidad de Análisis. Población y Muestra. Capítulo 6 de Metodología de las Ciencias Sociales (Marradi A., – Archenti N. – Piovani J., 2007)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
+* [Representatividad y muestreo probabilístico. Extracto Capítulo 1 de Diseño estadístico de la investigación (Kish L., 1995)](https://drive.google.com/file/d/1PyVlGqBntsGKgXFCJdUrNoULqlURG-yV/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
+* [La selección de las unidades de observación. Capítulo 5 de Metodología Cuantitativa (Cea D’Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTcjE2WkhkMTNYRWs/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
+* [Qué es un estudio de caso y para que sirve? (Gerring J., 2015[2004])](https://drive.google.com/file/d/1RAuwWz617k0e9Sg90nTMllyuwX_osLfK/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
+
+**Bibliografía Optativa:**
+
+* [El diseño de la muestra. Capítulo II. 4 en  en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015)](https://drive.google.com/file/d/1psZJ1466xeL5ov-jYxRTBXCZLoPhmfV7/view?usp=sharing)
+
+**Aplicaciones o ejemplos:**
+
+* [Simulador sobre Teorema Límite Central (Quartulli D., 2011)](https://diegoteca.com.ar/SimuladorTeoremaLimiteCentral.html)![](../../media/metodocuanti/dados.png). [Guía de ejercicios para el simulador](https://docs.google.com/document/d/1aDsL9JCiGK-JXWgLoqp95SmQfU1S0VgmRDs_h4mN8NA/edit?usp=sharing) ![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2017/04/writer-150x150.png)
+* [Diseño muestral estratificado sobre unidades de atención primaria en Florencio Varela (Quartulli D., Riveiro M., 2018)](https://diegoteca.com.ar/muestra-unaj/)![](../../media/metodocuanti/dados.png)
+* [Diseño muestral aleatorio estratificado sobre hogares de la Argentina urbana (Quartulli D., 2016)](https://www.aacademica.org/diego.quartulli/54.pdf) [**![](../../media/metodocuanti/pdf.png)**](https://www.aacademica.org/diego.quartulli/54.pdf)
+
+**Glosario Unidad 3**
+
+Dado el tipo de información contenida en las fichas, donde dice ‘Elige un modo de estudio’ (abajo a la derecha) conviene seleccionar la opción ‘probar’. De esta manera, una vez leídas las fichas, podrán practicar y así colaborar a recordar el contenido de las mismas.

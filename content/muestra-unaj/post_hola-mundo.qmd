@@ -1,0 +1,8 @@
+---
+title: ¡Hola mundo!
+date: '2017-08-17T21:24:44'
+original_url: https://diegoteca.com.ar/muestra-unaj/2017/08/17/hola-mundo/
+subsite: muestra-unaj
+---
+
+Welcome to [Diegoteca](http://diegoteca.com.ar/). This is your first post. Edit or delete it, then start blogging!

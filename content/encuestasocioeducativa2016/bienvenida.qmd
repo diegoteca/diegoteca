@@ -1,0 +1,37 @@
+---
+title: Sistema de carga de la encuesta socioeducativa 2016
+date: '2017-02-05T19:16:53'
+original_url: https://diegoteca.com.ar/encuestasocioeducativa2016/
+subsite: encuestasocioeducativa2016
+---
+
+Comentarios:
+
+Por el tipo de preguntas de la encuesta , se prefirió un sistema de carga de los datos que construya 2 archivos por cada cuestionario:
+
+* Uno para los datos de (cada uno) de los ‘componentes’ del hogar (Hasta la pregunta 33).
+* Otro para los datos de la vivienda, el hogar y las preguntas específicas cuyo referente es el encuestado (Desde la pregunta 34 hasta la 59).
+
+Algunas preguntas se cargan en ambos archivos. Estas son los que posteriormente van a permitir relacionar los datos de ambos archivos. De este modo se pueden responder preguntas como ¿Qué tipo de vivienda tienen l@s niñ@s que, teniendo edad para estar en el sistema educativo, no se encuentran en él?
+
+[Cuestionario Utilizado  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)](https://drive.google.com/file/d/0B2chaN7IisSTNEhfUGFVMEd4Z28/view?usp=sharing)
+
+[Criterios Muestrales](https://docs.google.com/spreadsheets/d/1mwua4MW3Vbj1PMh4Ayb4M091KEc1UIARjvP7-tPeeIs/edit?usp=sharing) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Cargar Base ‘Componentes del Hogar’](http://diegoteca.com.ar/encuestas/index.php/354142?lang=es).![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Resultados provisorios Base ‘Componentes del Hogar’](https://diegoteca.com.ar/encuestas/index.php/statistics_user/action/surveyid/354142) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Sintaxis SPSS para creación, etiquetación y creación de nuevas variables de ‘Componentes’](https://drive.google.com/file/d/0B0MydCOEUA9-NkNmSFYtOTFYejA/view?usp=sharing) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Base SPSS ‘Componentes’](https://drive.google.com/file/d/0B0MydCOEUA9-Y2FlWDVtalNSTFU/view?usp=sharing) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Cargar Base ‘Vivienda y Hogar’.](http://diegoteca.com.ar/encuestas/index.php/968286?lang=es) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Resultados provisorios Base ‘Vivienda y Hogar’](https://diegoteca.com.ar/encuestas/index.php/statistics_user/action/surveyid/968286) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Sintaxis SPSS para creación, etiquetación y creación de nuevas variables de ‘Vivienda y Hogares’](https://drive.google.com/file/d/0B0MydCOEUA9-RlhUNVIzdkYxOU0/view?usp=sharing)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Base SPSS ‘Vivienda y Hogares’](https://drive.google.com/file/d/0B0MydCOEUA9-ZnFNOXl3OWY4NlE/view?usp=sharing) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Base de datos y análisis de ambas bases](https://docs.google.com/spreadsheets/d/1pI37vuJWjZLM4F3j_P9aMXxMqfY7mLYMQfm3iHuWdvA/edit?usp=sharing)  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)

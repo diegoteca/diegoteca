@@ -1,0 +1,30 @@
+---
+title: ENRS_beta
+date: '2019-11-10T10:34:52'
+original_url: https://diegoteca.com.ar/enrs_beta/
+subsite: root
+---
+
+En principio, ya está armado todo el sistema de carga y ahora estoy trabajando en las mejoras que me fueron mandando de cada módulo.
+
+[Módulo de Identificación](https://diegoteca.com.ar/encuestas/index.php/849815?lang=es):
+
+[Módulo Perfil Sociodemográfico](https://diegoteca.com.ar/encuestas/index.php/448132?lang=es):
+
+[Módulo Generador de Nombres, Capital Social y Sociabilidad](https://diegoteca.com.ar/encuestas/index.php/425354?lang=es):
+
+[Módulo Autoidentificación y Barreras Sociales, Relaciones Conflictivas y Participación y acción colectiva:](https://diegoteca.com.ar/encuestas/index.php/385898?lang=es)
+
+[Módulo Personal y Laboral:](https://diegoteca.com.ar/encuestas/index.php/214748?lang=es)
+
+[Módulo Autopercepción de Bienestar:](https://diegoteca.com.ar/encuestas/index.php/388748?lang=es)
+
+---
+
+
+
+---
+
+[Seguimiento de los problemas identificados](https://github.com/diegoteca/ENRS/issues):
+
+[Formulario original (para realizar comentarios cliqueen en el simbolito del «+»)](https://www.luminpdf.com/viewer/5d9de717cffd3d0019d56de9)

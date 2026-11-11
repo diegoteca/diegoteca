@@ -1,0 +1,86 @@
+---
+title: Muestra UNAJ
+date: '2017-09-06T04:08:33'
+original_url: https://diegoteca.com.ar/muestra-unaj/
+subsite: muestra-unaj
+---
+
+---
+
+
+
+---
+
+#### **En esta página se encuentra información pertinente al trabajo de campo del proyecto «Coordinación y Monitoreo para procesos asistenciales y de gestión de pacientes en red…» de la Universidad Nacional Arturo Jautetche.**
+
+De modo más específico se encuentra disponible información referente a:
+
+[A) Objetivos y diseño general de la investigación](#objetivos)
+
+[B) Cuestionario](#cuestionario)
+
+[C) Sistema de carga online.](#carga)
+
+[D) Diseño de la muestra](#diseno)
+
+[E) Mapas construídos para el trabajo de campo](#mapas)
+
+[F) Datos utilizados para la estratificación de la muestra](#datos)
+
+---
+
+A) Objetivo y diseño general de la investigación
+
+[Ficha Técnica](https://docs.google.com/document/d/1BrUGf0d2DmR3_O58FK8NaQgCX4VBRw2AVdbsFvdNLQs/edit?usp=sharing) **![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)**
+
+---
+
+B) Cuestionario
+
+[Cuestionario (Versión 5)](../../media/muestra-unaj/Encuesta-Accesibilidad-2018-versión-5.pdf)[![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)](https://diegoteca.com.ar/metodocuanti/unidad-1/pdf/)
+
+---
+
+C) Sistema de carga online
+
+[Acceso al cuestionario online](https://diegoteca.com.ar/encuestas/index.php/493641?lang=es)
+
+---
+
+D) Diseño de la muestra
+
+[Documento sobre los criterios de selección de los CAPS **![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)**](https://docs.google.com/document/d/14ZuOqzeRgs-h0JJkzDiVcR3SvRQJscaLTWxfurzYMCk/edit?usp=sharing)
+
+[Distribución de casos por puntos muestra](https://docs.google.com/document/d/1l3p0yRAXm2h-JxKSEGsA2Omkvf2L9BRXdVUtMWfxamg/edit?usp=sharing) **![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)**
+
+---
+
+E) Mapas
+
+Se construyeron 2 mapas interactivos online con el objetivo de sintetizar, de modo georeferenciado, información tanto de:
+
+a) división política de los partidos,
+
+b) datos genéricos del sistema de salud público de la zona como la ubicación de los CAPS y su zona de influencia y,
+
+c) datos de radios censales (2010) que se tomaron como insumo para la estratificación de la muestra.
+
+d) distribución de los CAPS según docente y comisión.
+
+Mapa que contiene información específica de cada CAPS, su respectiva zona de influencia y los radios censales de cada uno de ellos
+
+Mapa que contiene información sobre el estrato muestral de cada CAPS y sobre los docentes asignados a cada uno de ellos
+
+---
+
+F) Datos utilizados para estratificación la muestra
+
+[Base Personas](https://drive.google.com/file/d/0B0MydCOEUA9-OWk5OFB1TUpTNVU/view?usp=sharing) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Base Hogares](https://drive.google.com/file/d/0B0MydCOEUA9-MThrdXMxS3l3RU0/view?usp=sharing) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Base Viviendas](https://drive.google.com/file/d/0B0MydCOEUA9-bmZkdEVGRVRObzA/view?usp=sharing) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Base agregadas de radios](https://drive.google.com/open?id=0B0MydCOEUA9-MXQ1NjdxdUZxMFU) ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
+
+[Sintaxis para extraer los radios censales de la base censal](https://drive.google.com/open?id=1kB8EEtf7lJI42X3eE47c8_NlgznkGWi1)  ![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)
