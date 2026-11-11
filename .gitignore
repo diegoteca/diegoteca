@@ -2,3 +2,7 @@ target/
 .venv/
 backup_raw/
 .quarto/
+media/root/Distancias_PBA.html
+
+/.quarto/
+**/*.quarto_ipynb

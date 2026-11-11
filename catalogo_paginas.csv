@@ -1,58 +1,68 @@
 subsite,type,id,slug,title,link,date,qmd_path
-root,page,329,enrs_beta,ENRS_beta,https://diegoteca.com.ar/enrs_beta/,2019-11-10T10:34:52,content\root\enrs_beta.qmd
-root,page,270,enrs,Encuesta Nacional de Relaciones Sociales,https://diegoteca.com.ar/enrs/,2019-10-03T19:02:44,content\root\enrs.qmd
-root,page,255,universidades-nacionales,Universidades Nacionales,https://diegoteca.com.ar/universidades-nacionales/,2019-08-31T03:45:53,content\root\universidades-nacionales.qmd
-root,page,213,nodocentes,Nodocentes – UNAJ,https://diegoteca.com.ar/nodocentes/,2019-06-28T15:53:34,content\root\nodocentes.qmd
-root,page,6,tesis-doctoral,Tesis Doctoral,https://diegoteca.com.ar/tesis-doctoral/,2017-02-22T01:54:21,content\root\tesis-doctoral.qmd
-root,post,1,hello-world,Hello world!,https://diegoteca.com.ar/blog/2016/12/17/hello-world/,2016-12-17T23:03:01,content\root\post_hello-world.qmd
-metodocuanti,page,1232,ejercicios-de-matrices-de-datos,Ejercicios de matrices de datos,https://diegoteca.com.ar/metodocuanti/ejercicios-de-matrices-de-datos/,2022-04-06T09:09:03,content\metodocuanti\ejercicios-de-matrices-de-datos.qmd
-metodocuanti,page,1172,matriz-de-datos,Matriz de Datos,https://diegoteca.com.ar/metodocuanti/matriz-de-datos/,2020-06-18T02:03:30,content\metodocuanti\matriz-de-datos.qmd
-metodocuanti,page,1153,1153-2,Un poco de poesia,https://diegoteca.com.ar/metodocuanti/1153-2/,2020-04-22T16:58:38,content\metodocuanti\1153-2.qmd
-metodocuanti,page,1085,teg-2c-2019,TEG 2C – 2019,https://diegoteca.com.ar/metodocuanti/teg-2c-2019/,2019-09-08T18:27:04,content\metodocuanti\teg-2c-2019.qmd
-metodocuanti,page,1073,cevareso,Cevareso,https://diegoteca.com.ar/metodocuanti/cevareso/,2019-08-23T10:41:39,content\metodocuanti\cevareso.qmd
-metodocuanti,page,1038,trabajo-practico-integrador-1c-2019,Trabajo Práctico Integrador 1C – 2019,https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2019/,2019-05-07T14:29:35,content\metodocuanti\trabajo-practico-integrador-1c-2019.qmd
-metodocuanti,page,849,programa,Programa,https://diegoteca.com.ar/metodocuanti/programa/,2019-02-28T19:06:30,content\metodocuanti\programa.qmd
-metodocuanti,page,840,cronograma,Cronograma,https://diegoteca.com.ar/metodocuanti/cronograma/,2019-02-27T15:29:17,content\metodocuanti\cronograma.qmd
-metodocuanti,page,662,seleccion-de-trabajos-practicos,Selección de Trabajos Prácticos,https://diegoteca.com.ar/metodocuanti/seleccion-de-trabajos-practicos/,2018-08-28T18:08:05,content\metodocuanti\seleccion-de-trabajos-practicos.qmd
 metodocuanti,page,659,trabajo-practico-integrador-1c-2018-2,Trabajo Práctico Integrador 2C – 2018,https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2018-2/,2018-08-28T17:56:09,content\metodocuanti\trabajo-practico-integrador-1c-2018-2.qmd
-metodocuanti,page,292,trabajo-practico-integrador-1c-2018,Trabajo Práctico Integrador 1C – 2018,https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2018/,2018-04-23T13:52:27,content\metodocuanti\trabajo-practico-integrador-1c-2018.qmd
-metodocuanti,page,179,trabajo-practico-integrador-2c-2017-2,Trabajo Práctico Integrador 2C – 2017,https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-2c-2017-2/,2017-08-30T20:10:14,content\metodocuanti\trabajo-practico-integrador-2c-2017-2.qmd
-metodocuanti,page,162,ejercicios-practicos,Aplicaciones,https://diegoteca.com.ar/metodocuanti/ejercicios-practicos/,2017-08-22T18:49:50,content\metodocuanti\ejercicios-practicos.qmd
-metodocuanti,page,111,teg,TEG,https://diegoteca.com.ar/metodocuanti/teg/,2017-08-10T01:02:39,content\metodocuanti\teg.qmd
-metodocuanti,page,68,unidad-4,Unidad 4 – Análisis de los datos,https://diegoteca.com.ar/metodocuanti/unidad-4/,2017-04-29T18:51:02,content\metodocuanti\unidad-4.qmd
-metodocuanti,page,49,trabajo-practico-integrador-1c-2017,Trabajo Práctico Integrador 1C – 2017,https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2017/,2017-04-05T23:23:28,content\metodocuanti\trabajo-practico-integrador-1c-2017.qmd
-metodocuanti,page,40,unidad-3,"Unidad 3 – Universo, Población y Muestra",https://diegoteca.com.ar/metodocuanti/unidad-3/,2017-04-05T11:06:40,content\metodocuanti\unidad-3.qmd
-metodocuanti,page,31,unidad-2,Unidad 2 – Operacionalización. Conceptualización y Observación,https://diegoteca.com.ar/metodocuanti/unidad-2/,2017-03-21T19:28:31,content\metodocuanti\unidad-2.qmd
-metodocuanti,page,19,unidad-1,"Unidad 1 – Delimitación del tema, selección del marco teórico, explicitación de los objetivos y construcción del diseño de la investigación",https://diegoteca.com.ar/metodocuanti/unidad-1/,2017-03-21T17:33:56,content\metodocuanti\unidad-1.qmd
-metodocuanti,page,5,inicio,Inicio,https://diegoteca.com.ar/metodocuanti/,2017-03-20T01:05:50,content\metodocuanti\inicio.qmd
-sociologiadeltrabajo,page,333,globalizacion_simpsons,Globalización_simpons,https://diegoteca.com.ar/sociologiadeltrabajo/globalizacion_simpsons/,2020-10-21T16:56:14,content\sociologiadeltrabajo\globalizacion_simpsons.qmd
-sociologiadeltrabajo,page,109,clase-6,Clase 6,https://diegoteca.com.ar/sociologiadeltrabajo/clase-6/,2017-04-27T20:32:21,content\sociologiadeltrabajo\clase-6.qmd
-sociologiadeltrabajo,page,102,clase-9,Clase 9,https://diegoteca.com.ar/sociologiadeltrabajo/clase-9/,2017-04-27T20:20:03,content\sociologiadeltrabajo\clase-9.qmd
-sociologiadeltrabajo,page,98,clase-12,Clase 12,https://diegoteca.com.ar/sociologiadeltrabajo/clase-12/,2017-04-27T20:13:22,content\sociologiadeltrabajo\clase-12.qmd
-sociologiadeltrabajo,page,92,clase-11,Representación y Negociación Colectivas de los Trabajadores,https://diegoteca.com.ar/sociologiadeltrabajo/clase-11/,2017-04-27T19:57:33,content\sociologiadeltrabajo\clase-11.qmd
-sociologiadeltrabajo,page,86,clase-10,Clase 10,https://diegoteca.com.ar/sociologiadeltrabajo/clase-10/,2017-04-27T19:42:41,content\sociologiadeltrabajo\clase-10.qmd
-sociologiadeltrabajo,page,79,clase-8,Clase 8,https://diegoteca.com.ar/sociologiadeltrabajo/clase-8/,2017-04-23T16:39:50,content\sociologiadeltrabajo\clase-8.qmd
-sociologiadeltrabajo,page,72,clase-7,Clase 7,https://diegoteca.com.ar/sociologiadeltrabajo/clase-7/,2017-04-16T22:03:37,content\sociologiadeltrabajo\clase-7.qmd
-sociologiadeltrabajo,page,61,clase-5,Clase 5,https://diegoteca.com.ar/sociologiadeltrabajo/clase-5/,2017-03-30T18:59:16,content\sociologiadeltrabajo\clase-5.qmd
-sociologiadeltrabajo,page,53,generoytrabajo,Género y Trabajo,https://diegoteca.com.ar/sociologiadeltrabajo/generoytrabajo/,2017-03-30T14:47:40,content\sociologiadeltrabajo\generoytrabajo.qmd
-sociologiadeltrabajo,page,42,trabajoclasico,Trabajo Clásico y nuevos modelos productivos,https://diegoteca.com.ar/sociologiadeltrabajo/trabajoclasico/,2017-03-18T19:37:11,content\sociologiadeltrabajo\trabajoclasico.qmd
-sociologiadeltrabajo,page,28,clase2,El trabajo a lo largo de la historia,https://diegoteca.com.ar/sociologiadeltrabajo/clase2/,2017-03-18T18:11:25,content\sociologiadeltrabajo\clase2.qmd
-sociologiadeltrabajo,page,13,clase1,El trabajo como hecho social. Su desnaturalización.,https://diegoteca.com.ar/sociologiadeltrabajo/clase1/,2017-03-16T19:43:20,content\sociologiadeltrabajo\clase1.qmd
-sociologiadeltrabajo,page,9,inicio,Inicio,https://diegoteca.com.ar/sociologiadeltrabajo/,2017-03-16T18:34:15,content\sociologiadeltrabajo\inicio.qmd
-sociologiadeltrabajo,page,2,pagina-ejemplo,Página de ejemplo,https://diegoteca.com.ar/sociologiadeltrabajo/pagina-ejemplo/,2016-12-17T23:04:41,content\sociologiadeltrabajo\pagina-ejemplo.qmd
-sociologiadeltrabajo,post,1,hola-mundo,¡Hola mundo!,https://diegoteca.com.ar/sociologiadeltrabajo/2016/12/17/hola-mundo/,2016-12-17T23:04:41,content\sociologiadeltrabajo\post_hola-mundo.qmd
-preferenciasycapitalsocial,page,44,cuestionario,Cuestionario,https://diegoteca.com.ar/preferenciasycapitalsocial/cuestionario/,2018-10-10T20:27:08,content\preferenciasycapitalsocial\cuestionario.qmd
-preferenciasycapitalsocial,page,41,protocolo-experimental,Protocolo Experimental,https://diegoteca.com.ar/preferenciasycapitalsocial/protocolo-experimental/,2018-10-10T20:26:35,content\preferenciasycapitalsocial\protocolo-experimental.qmd
 preferenciasycapitalsocial,page,38,bibliografia,Bibliografía,https://diegoteca.com.ar/preferenciasycapitalsocial/bibliografia/,2018-10-10T20:16:20,content\preferenciasycapitalsocial\bibliografia.qmd
-preferenciasycapitalsocial,page,10,inicio,Inicio,https://diegoteca.com.ar/preferenciasycapitalsocial/,2018-10-04T18:59:10,content\preferenciasycapitalsocial\inicio.qmd
-preferenciasycapitalsocial,post,1,hola-mundo,¡Hola mundo!,https://diegoteca.com.ar/preferenciasycapitalsocial/2018/10/04/hola-mundo/,2018-10-04T17:42:44,content\preferenciasycapitalsocial\post_hola-mundo.qmd
-encuestasocioeducativa2016,page,8,bienvenida,Sistema de carga de la encuesta socioeducativa 2016,https://diegoteca.com.ar/encuestasocioeducativa2016/,2017-02-05T19:16:53,content\encuestasocioeducativa2016\bienvenida.qmd
-encuestasocioeducativa2016,page,2,pagina-ejemplo,Página de ejemplo,https://diegoteca.com.ar/encuestasocioeducativa2016/pagina-ejemplo/,2017-02-05T18:31:18,content\encuestasocioeducativa2016\pagina-ejemplo.qmd
-encuestasocioeducativa2016,post,1,hola-mundo,¡Hola mundo!,https://diegoteca.com.ar/encuestasocioeducativa2016/2017/02/05/hola-mundo/,2017-02-05T18:31:18,content\encuestasocioeducativa2016\post_hola-mundo.qmd
-muestra-unaj,page,11,muestra-unaj,Muestra UNAJ,https://diegoteca.com.ar/muestra-unaj/,2017-09-06T04:08:33,content\muestra-unaj\muestra-unaj.qmd
-muestra-unaj,page,2,inicio,Inicio,https://diegoteca.com.ar/muestra-unaj/inicio/,2017-08-17T21:24:44,content\muestra-unaj\inicio.qmd
+sociologiadeltrabajo,page,72,clase-7,Clase 7,https://diegoteca.com.ar/sociologiadeltrabajo/clase-7/,2017-04-16T22:03:37,content\sociologiadeltrabajo\clase-7.qmd
+sociologiadeltrabajo,page,53,generoytrabajo,Género y Trabajo,https://diegoteca.com.ar/sociologiadeltrabajo/generoytrabajo/,2017-03-30T14:47:40,content\sociologiadeltrabajo\generoytrabajo.qmd
+root,page,213,nodocentes,Nodocentes – UNAJ,https://diegoteca.com.ar/nodocentes/,2019-06-28T15:53:34,content\root\nodocentes.qmd
+root,page,329,enrs_beta,ENRS_beta,https://diegoteca.com.ar/enrs_beta/,2019-11-10T10:34:52,content\root\enrs_beta.qmd
+metodocuanti,post,270,mi-primer-formulario,Mi primer formulario online,https://diegoteca.com.ar/metodocuanti/mi-primer-formulario/,2018-04-13T19:08:32,content\metodocuanti\post_mi-primer-formulario.qmd
+metodocuanti,page,19,unidad-1,"Unidad 1 – Delimitación del tema, selección del marco teórico, explicitación de los objetivos y construcción del diseño de la investigación",https://diegoteca.com.ar/metodocuanti/unidad-1/,2017-03-21T17:33:56,content\metodocuanti\unidad-1.qmd
+sociologiadeltrabajo,page,13,clase1,El trabajo como hecho social. Su desnaturalización.,https://diegoteca.com.ar/sociologiadeltrabajo/clase1/,2017-03-16T19:43:20,content\sociologiadeltrabajo\clase1.qmd
 muestra-unaj,post,8,mapa-de-agua-potable,Mapa de Agua Potable,https://diegoteca.com.ar/muestra-unaj/2017/09/06/mapa-de-agua-potable/,2017-09-06T00:49:51,content\muestra-unaj\post_mapa-de-agua-potable.qmd
+metodocuanti,page,662,seleccion-de-trabajos-practicos,Selección de Trabajos Prácticos,https://diegoteca.com.ar/metodocuanti/seleccion-de-trabajos-practicos/,2018-08-28T18:08:05,content\metodocuanti\seleccion-de-trabajos-practicos.qmd
+root,page,255,universidades-nacionales,Universidades Nacionales,https://diegoteca.com.ar/universidades-nacionales/,2019-08-31T03:45:53,content\root\universidades-nacionales.qmd
+metodocuanti,page,179,trabajo-practico-integrador-2c-2017-2,Trabajo Práctico Integrador 2C – 2017,https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-2c-2017-2/,2017-08-30T20:10:14,content\metodocuanti\trabajo-practico-integrador-2c-2017-2.qmd
+metodocuanti,page,68,unidad-4,Unidad 4 – Análisis de los datos,https://diegoteca.com.ar/metodocuanti/unidad-4/,2017-04-29T18:51:02,content\metodocuanti\unidad-4.qmd
+sociologiadeltrabajo,page,28,clase2,El trabajo a lo largo de la historia,https://diegoteca.com.ar/sociologiadeltrabajo/clase2/,2017-03-18T18:11:25,content\sociologiadeltrabajo\clase2.qmd
+sociologiadeltrabajo,page,109,clase-6,Clase 6,https://diegoteca.com.ar/sociologiadeltrabajo/clase-6/,2017-04-27T20:32:21,content\sociologiadeltrabajo\clase-6.qmd
+preferenciasycapitalsocial,page,41,protocolo-experimental,Protocolo Experimental,https://diegoteca.com.ar/preferenciasycapitalsocial/protocolo-experimental/,2018-10-10T20:26:35,content\preferenciasycapitalsocial\protocolo-experimental.qmd
+metodocuanti,page,1073,cevareso,Cevareso,https://diegoteca.com.ar/metodocuanti/cevareso/,2019-08-23T10:41:39,content\metodocuanti\cevareso.qmd
+metodocuanti,page,162,ejercicios-practicos,Aplicaciones,https://diegoteca.com.ar/metodocuanti/ejercicios-practicos/,2017-08-22T18:49:50,content\metodocuanti\ejercicios-practicos.qmd
+encuestasocioeducativa2016,post,1,hola-mundo,¡Hola mundo!,https://diegoteca.com.ar/encuestasocioeducativa2016/2017/02/05/hola-mundo/,2017-02-05T18:31:18,content\encuestasocioeducativa2016\post_hola-mundo.qmd
+sociologiadeltrabajo,post,1,hola-mundo,¡Hola mundo!,https://diegoteca.com.ar/sociologiadeltrabajo/2016/12/17/hola-mundo/,2016-12-17T23:04:41,content\sociologiadeltrabajo\post_hola-mundo.qmd
+metodocuanti,page,111,teg,TEG,https://diegoteca.com.ar/metodocuanti/teg/,2017-08-10T01:02:39,content\metodocuanti\teg.qmd
+metodocuanti,post,188,la-medicion-de-la-tierra-por-eratostenes,La medición de la tierra por Eratóstenes,https://diegoteca.com.ar/metodocuanti/la-medicion-de-la-tierra-por-eratostenes/,2017-09-05T13:26:33,content\metodocuanti\post_la-medicion-de-la-tierra-por-eratostenes.qmd
+sociologiadeltrabajo,page,86,clase-10,Clase 10,https://diegoteca.com.ar/sociologiadeltrabajo/clase-10/,2017-04-27T19:42:41,content\sociologiadeltrabajo\clase-10.qmd
+sociologiadeltrabajo,page,61,clase-5,Clase 5,https://diegoteca.com.ar/sociologiadeltrabajo/clase-5/,2017-03-30T18:59:16,content\sociologiadeltrabajo\clase-5.qmd
+sociologiadeltrabajo,page,333,globalizacion_simpsons,Globalización_simpons,https://diegoteca.com.ar/sociologiadeltrabajo/globalizacion_simpsons/,2020-10-21T16:56:14,content\sociologiadeltrabajo\globalizacion_simpsons.qmd
+metodocuanti,page,1085,teg-2c-2019,TEG 2C – 2019,https://diegoteca.com.ar/metodocuanti/teg-2c-2019/,2019-09-08T18:27:04,content\metodocuanti\teg-2c-2019.qmd
+muestra-unaj,page,2,inicio,Inicio,https://diegoteca.com.ar/muestra-unaj/inicio/,2017-08-17T21:24:44,content\muestra-unaj\inicio.qmd
 muestra-unaj,post,1,hola-mundo,¡Hola mundo!,https://diegoteca.com.ar/muestra-unaj/2017/08/17/hola-mundo/,2017-08-17T21:24:44,content\muestra-unaj\post_hola-mundo.qmd
-usomedicamentos,page,53,sistema-de-carga,Sistema de carga,https://diegoteca.com.ar/usomedicamentos/sistema-de-carga/,2019-08-17T22:10:13,content\usomedicamentos\sistema-de-carga.qmd
+encuestasocioeducativa2016,page,2,pagina-ejemplo,Página de ejemplo,https://diegoteca.com.ar/encuestasocioeducativa2016/pagina-ejemplo/,2017-02-05T18:31:18,content\encuestasocioeducativa2016\pagina-ejemplo.qmd
+metodocuanti,page,40,unidad-3,"Unidad 3 – Universo, Población y Muestra",https://diegoteca.com.ar/metodocuanti/unidad-3/,2017-04-05T11:06:40,content\metodocuanti\unidad-3.qmd
+preferenciasycapitalsocial,page,10,inicio,Inicio,https://diegoteca.com.ar/preferenciasycapitalsocial/,2018-10-04T18:59:10,content\preferenciasycapitalsocial\inicio.qmd
+root,post,1,hello-world,Hello world!,https://diegoteca.com.ar/blog/2016/12/17/hello-world/,2016-12-17T23:03:01,content\root\post_hello-world.qmd
+muestra-unaj,page,11,muestra-unaj,Muestra UNAJ,https://diegoteca.com.ar/muestra-unaj/,2017-09-06T04:08:33,content\muestra-unaj\muestra-unaj.qmd
+sociologiadeltrabajo,page,9,inicio,Inicio,https://diegoteca.com.ar/sociologiadeltrabajo/,2017-03-16T18:34:15,content\sociologiadeltrabajo\inicio.qmd
+metodocuanti,page,1232,ejercicios-de-matrices-de-datos,Ejercicios de matrices de datos,https://diegoteca.com.ar/metodocuanti/ejercicios-de-matrices-de-datos/,2022-04-06T09:09:03,content\metodocuanti\ejercicios-de-matrices-de-datos.qmd
+metodocuanti,post,165,los-jovenes-pobres-como-objeto-de-politicas-publicas,Los jóvenes pobres como objeto de políticas públicas,https://diegoteca.com.ar/metodocuanti/los-jovenes-pobres-como-objeto-de-politicas-publicas/,2017-08-24T16:51:43,content\metodocuanti\post_los-jovenes-pobres-como-objeto-de-politicas-publicas.qmd
+sociologiadeltrabajo,page,102,clase-9,Clase 9,https://diegoteca.com.ar/sociologiadeltrabajo/clase-9/,2017-04-27T20:20:03,content\sociologiadeltrabajo\clase-9.qmd
+metodocuanti,page,849,programa,Programa,https://diegoteca.com.ar/metodocuanti/programa/,2019-02-28T19:06:30,content\metodocuanti\programa.qmd
+metodocuanti,post,262,indice-de-masa-corporal,Indice de Masa Corporal,https://diegoteca.com.ar/metodocuanti/indice-de-masa-corporal/,2018-04-07T02:11:50,content\metodocuanti\post_indice-de-masa-corporal.qmd
+metodocuanti,page,840,cronograma,Cronograma,https://diegoteca.com.ar/metodocuanti/cronograma/,2019-02-27T15:29:17,content\metodocuanti\cronograma.qmd
 usomedicamentos,page,6,uso-de-medicamentos,Uso de medicamentos,https://diegoteca.com.ar/usomedicamentos/,2019-04-19T00:32:15,content\usomedicamentos\uso-de-medicamentos.qmd
+usomedicamentos,page,53,sistema-de-carga,Sistema de carga,https://diegoteca.com.ar/usomedicamentos/sistema-de-carga/,2019-08-17T22:10:13,content\usomedicamentos\sistema-de-carga.qmd
+metodocuanti,page,1172,matriz-de-datos,Matriz de Datos,https://diegoteca.com.ar/metodocuanti/matriz-de-datos/,2020-06-18T02:03:30,content\metodocuanti\matriz-de-datos.qmd
 usomedicamentos,post,1,hola-mundo,¡Hola mundo!,https://diegoteca.com.ar/usomedicamentos/2019/04/19/hola-mundo/,2019-04-19T00:18:18,content\usomedicamentos\post_hola-mundo.qmd
+metodocuanti,post,364,mi-primer-indice,Bienestar Adolescente,https://diegoteca.com.ar/metodocuanti/mi-primer-indice/,2018-05-21T13:52:35,content\metodocuanti\post_mi-primer-indice.qmd
+sociologiadeltrabajo,page,42,trabajoclasico,Trabajo Clásico y nuevos modelos productivos,https://diegoteca.com.ar/sociologiadeltrabajo/trabajoclasico/,2017-03-18T19:37:11,content\sociologiadeltrabajo\trabajoclasico.qmd
+metodocuanti,page,292,trabajo-practico-integrador-1c-2018,Trabajo Práctico Integrador 1C – 2018,https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2018/,2018-04-23T13:52:27,content\metodocuanti\trabajo-practico-integrador-1c-2018.qmd
+metodocuanti,post,710,representaciones-sociales-ambientales,Representaciones Sociales Ambientales,https://diegoteca.com.ar/metodocuanti/representaciones-sociales-ambientales/,2018-09-04T18:03:47,content\metodocuanti\post_representaciones-sociales-ambientales.qmd
+encuestasocioeducativa2016,page,8,bienvenida,Sistema de carga de la encuesta socioeducativa 2016,https://diegoteca.com.ar/encuestasocioeducativa2016/,2017-02-05T19:16:53,content\encuestasocioeducativa2016\bienvenida.qmd
+root,page,270,enrs,Encuesta Nacional de Relaciones Sociales,https://diegoteca.com.ar/enrs/,2019-10-03T19:02:44,content\root\enrs.qmd
+metodocuanti,page,1038,trabajo-practico-integrador-1c-2019,Trabajo Práctico Integrador 1C – 2019,https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2019/,2019-05-07T14:29:35,content\metodocuanti\trabajo-practico-integrador-1c-2019.qmd
+preferenciasycapitalsocial,page,44,cuestionario,Cuestionario,https://diegoteca.com.ar/preferenciasycapitalsocial/cuestionario/,2018-10-10T20:27:08,content\preferenciasycapitalsocial\cuestionario.qmd
+metodocuanti,post,998,998-2,"",https://diegoteca.com.ar/metodocuanti/998-2/,2019-04-08T19:02:02,content\metodocuanti\post_998-2.qmd
+metodocuanti,page,49,trabajo-practico-integrador-1c-2017,Trabajo Práctico Integrador 1C – 2017,https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2017/,2017-04-05T23:23:28,content\metodocuanti\trabajo-practico-integrador-1c-2017.qmd
+sociologiadeltrabajo,page,2,pagina-ejemplo,Página de ejemplo,https://diegoteca.com.ar/sociologiadeltrabajo/pagina-ejemplo/,2016-12-17T23:04:41,content\sociologiadeltrabajo\pagina-ejemplo.qmd
+metodocuanti,page,5,inicio,Inicio,https://diegoteca.com.ar/metodocuanti/,2017-03-20T01:05:50,content\metodocuanti\inicio.qmd
+metodocuanti,post,586,mi-primer-mapa,Mi primer mapa,https://diegoteca.com.ar/metodocuanti/mi-primer-mapa/,2018-06-14T18:28:42,content\metodocuanti\post_mi-primer-mapa.qmd
+sociologiadeltrabajo,page,92,clase-11,Representación y Negociación Colectivas de los Trabajadores,https://diegoteca.com.ar/sociologiadeltrabajo/clase-11/,2017-04-27T19:57:33,content\sociologiadeltrabajo\clase-11.qmd
+sociologiadeltrabajo,page,98,clase-12,Clase 12,https://diegoteca.com.ar/sociologiadeltrabajo/clase-12/,2017-04-27T20:13:22,content\sociologiadeltrabajo\clase-12.qmd
+metodocuanti,post,223,simulador-teorema-limite-central,Simulador Teorema Límite Central,https://diegoteca.com.ar/metodocuanti/simulador-teorema-limite-central/,2017-10-09T00:42:38,content\metodocuanti\post_simulador-teorema-limite-central.qmd
+sociologiadeltrabajo,page,79,clase-8,Clase 8,https://diegoteca.com.ar/sociologiadeltrabajo/clase-8/,2017-04-23T16:39:50,content\sociologiadeltrabajo\clase-8.qmd
+metodocuanti,post,296,mi-primer-sociograma,Mi primer sociograma,https://diegoteca.com.ar/metodocuanti/mi-primer-sociograma/,2018-04-23T13:58:16,content\metodocuanti\post_mi-primer-sociograma.qmd
+metodocuanti,page,31,unidad-2,Unidad 2 – Operacionalización. Conceptualización y Observación,https://diegoteca.com.ar/metodocuanti/unidad-2/,2017-03-21T19:28:31,content\metodocuanti\unidad-2.qmd
+metodocuanti,page,1153,1153-2,Un poco de poesia,https://diegoteca.com.ar/metodocuanti/1153-2/,2020-04-22T16:58:38,content\metodocuanti\1153-2.qmd
+preferenciasycapitalsocial,post,1,hola-mundo,¡Hola mundo!,https://diegoteca.com.ar/preferenciasycapitalsocial/2018/10/04/hola-mundo/,2018-10-04T17:42:44,content\preferenciasycapitalsocial\post_hola-mundo.qmd
+root,page,6,tesis-doctoral,Tesis Doctoral,https://diegoteca.com.ar/tesis-doctoral/,2017-02-22T01:54:21,content\root\tesis-doctoral.qmd

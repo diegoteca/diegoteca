@@ -1,7 +1,7 @@
 ---
 title: Selección de Trabajos Prácticos
 date: '2018-08-28T18:08:05'
-original_url: https://diegoteca.com.ar/metodocuanti/seleccion-de-trabajos-practicos/
+original_url: /content/metodocuanti/seleccion-de-trabajos-practicos.html
 subsite: metodocuanti
 ---
 

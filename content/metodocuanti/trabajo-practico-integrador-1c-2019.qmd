@@ -1,7 +1,7 @@
 ---
 title: Trabajo Práctico Integrador 1C – 2019
 date: '2019-05-07T14:29:35'
-original_url: https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2019/
+original_url: /content/metodocuanti/trabajo-practico-integrador-1c-2019.html
 subsite: metodocuanti
 ---
 

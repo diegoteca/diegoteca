@@ -1,7 +1,7 @@
 ---
 title: Programa
 date: '2019-02-28T19:06:30'
-original_url: https://diegoteca.com.ar/metodocuanti/programa/
+original_url: /content/metodocuanti/programa.html
 subsite: metodocuanti
 ---
 

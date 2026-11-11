@@ -1,7 +1,7 @@
 ---
 title: Trabajo Práctico Integrador 1C – 2017
 date: '2017-04-05T23:23:28'
-original_url: https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2017/
+original_url: /content/metodocuanti/trabajo-practico-integrador-1c-2017.html
 subsite: metodocuanti
 ---
 

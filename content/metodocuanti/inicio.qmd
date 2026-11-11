@@ -1,7 +1,7 @@
 ---
 title: Inicio
 date: '2017-03-20T01:05:50'
-original_url: https://diegoteca.com.ar/metodocuanti/
+original_url: /content/metodocuanti/inicio.html
 subsite: metodocuanti
 ---
 
@@ -9,14 +9,14 @@ subsite: metodocuanti
 
 [Cronograma](https://docs.google.com/spreadsheets/d/1b70mRk7suTxzBOzKfSLN3bvyYl_UD2E_mnPL_eHtB-c/edit#gid=2127666907)
 
-[Trabajo Integrador Grupal (TIG)](https://diegoteca.com.ar/metodocuanti/teg/)
+[Trabajo Integrador Grupal (TIG)](/content/metodocuanti/teg.html)
 
-[Unidad 1 – Delimitación del tema, selección del marco teórico, explicitación de los objetivos y diseños de investigación](https://diegoteca.com.ar/metodocuanti/?page_id=19)
+[Unidad 1 – Delimitación del tema, selección del marco teórico, explicitación de los objetivos y diseños de investigación](/content/metodocuanti/unidad-1.html)
 
-[Unidad 2 – Operacionalización. Conceptualización y observación](https://diegoteca.com.ar/metodocuanti/?page_id=31)
+[Unidad 2 – Operacionalización. Conceptualización y observación](/content/metodocuanti/unidad-2.html)
 
-[Unidad 3 – Universo, población y muestra](https://diegoteca.com.ar/metodocuanti/?page_id=40)
+[Unidad 3 – Universo, población y muestra](/content/metodocuanti/unidad-3.html)
 
-[Unidad 4 – Análisis de datos](https://diegoteca.com.ar/metodocuanti/?page_id=68)
+[Unidad 4 – Análisis de datos](/content/metodocuanti/unidad-4.html)
 
-[Aplicaciones](https://diegoteca.com.ar/metodocuanti/?page_id=162)
+[Aplicaciones](/content/metodocuanti/ejercicios-practicos.html)

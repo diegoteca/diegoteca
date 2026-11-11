@@ -1,7 +1,7 @@
 ---
 title: El trabajo a lo largo de la historia
 date: '2017-03-18T18:11:25'
-original_url: https://diegoteca.com.ar/sociologiadeltrabajo/clase2/
+original_url: /content/sociologiadeltrabajo/clase2.html
 subsite: sociologiadeltrabajo
 ---
 

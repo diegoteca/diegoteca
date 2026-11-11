@@ -1,7 +1,7 @@
 ---
 title: ENRS_beta
 date: '2019-11-10T10:34:52'
-original_url: https://diegoteca.com.ar/enrs_beta/
+original_url: /content/root/enrs_beta.html
 subsite: root
 ---
 

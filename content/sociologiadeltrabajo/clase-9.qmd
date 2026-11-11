@@ -1,7 +1,7 @@
 ---
 title: Clase 9
 date: '2017-04-27T20:20:03'
-original_url: https://diegoteca.com.ar/sociologiadeltrabajo/clase-9/
+original_url: /content/sociologiadeltrabajo/clase-9.html
 subsite: sociologiadeltrabajo
 ---
 

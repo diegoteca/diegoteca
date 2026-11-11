@@ -1,7 +1,7 @@
 ---
 title: Unidad 2 – Operacionalización. Conceptualización y Observación
 date: '2017-03-21T19:28:31'
-original_url: https://diegoteca.com.ar/metodocuanti/unidad-2/
+original_url: /content/metodocuanti/unidad-2.html
 subsite: metodocuanti
 ---
 
@@ -49,7 +49,7 @@ Si, ahora al menos dentro del contexto de un campo de estudio o disciplina deter
 
 **Aplicaciones y ejemplos:**
 
-* [Eratóstenes y la medición de la circunferencia de la tierra](https://diegoteca.com.ar/metodocuanti/?p=188) ![](../../media/metodocuanti/video-30-e1502475242195.png)
+* [Eratóstenes y la medición de la circunferencia de la tierra](/content/metodocuanti/post_la-medicion-de-la-tierra-por-eratostenes.html) ![](../../media/metodocuanti/video-30-e1502475242195.png)
 * [Ejemplo de conceptualización de Clase Social (Quartulli D., 2016)](https://drive.google.com/file/d/0B2chaN7IisSTbENHT01Ma1d6MFU/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing)
 * [Ejemplo de operacionalización sobre Clase Social (Quartulli D., 2016)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing)
 

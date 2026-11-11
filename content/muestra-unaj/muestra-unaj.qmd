@@ -1,7 +1,7 @@
 ---
 title: Muestra UNAJ
 date: '2017-09-06T04:08:33'
-original_url: https://diegoteca.com.ar/muestra-unaj/
+original_url: /content/muestra-unaj/inicio.html
 subsite: muestra-unaj
 ---
 

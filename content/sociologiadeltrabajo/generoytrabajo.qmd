@@ -1,7 +1,7 @@
 ---
 title: Género y Trabajo
 date: '2017-03-30T14:47:40'
-original_url: https://diegoteca.com.ar/sociologiadeltrabajo/generoytrabajo/
+original_url: /content/sociologiadeltrabajo/generoytrabajo.html
 subsite: sociologiadeltrabajo
 ---
 

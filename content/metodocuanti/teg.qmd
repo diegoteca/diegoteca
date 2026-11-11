@@ -1,7 +1,7 @@
 ---
 title: TEG
 date: '2017-08-10T01:02:39'
-original_url: https://diegoteca.com.ar/metodocuanti/teg/
+original_url: /content/metodocuanti/teg.html
 subsite: metodocuanti
 ---
 

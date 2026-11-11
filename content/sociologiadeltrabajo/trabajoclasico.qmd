@@ -1,7 +1,7 @@
 ---
 title: Trabajo Clásico y nuevos modelos productivos
 date: '2017-03-18T19:37:11'
-original_url: https://diegoteca.com.ar/sociologiadeltrabajo/trabajoclasico/
+original_url: /content/sociologiadeltrabajo/trabajoclasico.html
 subsite: sociologiadeltrabajo
 ---
 

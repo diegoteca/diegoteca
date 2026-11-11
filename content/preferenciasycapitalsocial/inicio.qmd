@@ -1,7 +1,7 @@
 ---
 title: Inicio
 date: '2018-10-04T18:59:10'
-original_url: https://diegoteca.com.ar/preferenciasycapitalsocial/
+original_url: /content/preferenciasycapitalsocial/inicio.html
 subsite: preferenciasycapitalsocial
 ---
 

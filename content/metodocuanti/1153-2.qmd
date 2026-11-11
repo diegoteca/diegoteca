@@ -1,7 +1,7 @@
 ---
 title: Un poco de poesia
 date: '2020-04-22T16:58:38'
-original_url: https://diegoteca.com.ar/metodocuanti/1153-2/
+original_url: /content/metodocuanti/1153-2.html
 subsite: metodocuanti
 ---
 

@@ -2,7 +2,7 @@
 title: Unidad 1 – Delimitación del tema, selección del marco teórico, explicitación
   de los objetivos y construcción del diseño de la investigación
 date: '2017-03-21T17:33:56'
-original_url: https://diegoteca.com.ar/metodocuanti/unidad-1/
+original_url: /content/metodocuanti/unidad-1.html
 subsite: metodocuanti
 ---
 

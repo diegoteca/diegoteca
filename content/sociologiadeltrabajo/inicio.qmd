@@ -1,7 +1,7 @@
 ---
 title: Inicio
 date: '2017-03-16T18:34:15'
-original_url: https://diegoteca.com.ar/sociologiadeltrabajo/
+original_url: /content/sociologiadeltrabajo/inicio.html
 subsite: sociologiadeltrabajo
 ---
 
@@ -9,29 +9,29 @@ subsite: sociologiadeltrabajo
 
 [Formulario para Ficha Bibliográfica](https://goo.gl/forms/Bk3wjWJuRiGQK6s63)
 
-[Clase 1 – Hecho Social y Desnaturalización](https://diegoteca.com.ar/sociologiadeltrabajo/clase1)
+[Clase 1 – Hecho Social y Desnaturalización](/content/sociologiadeltrabajo/clase1.html)
 
-[Clase 2 – El trabajo desde los orígenes del hombre hasta la Segunda Revolución Industrial](https://diegoteca.com.ar/sociologiadeltrabajo/clase2)
+[Clase 2 – El trabajo desde los orígenes del hombre hasta la Segunda Revolución Industrial](/content/sociologiadeltrabajo/clase2.html)
 
-[Clase 3 – El trabajo clásico y los nuevos modelos productivos](https://diegoteca.com.ar/sociologiadeltrabajo/trabajoclasico/)
+[Clase 3 – El trabajo clásico y los nuevos modelos productivos](/content/sociologiadeltrabajo/trabajoclasico.html)
 
-[Clase 4 – La problemática de Género en el mundo del Trabajo](https://diegoteca.com.ar/sociologiadeltrabajo/generoytrabajo/)
+[Clase 4 – La problemática de Género en el mundo del Trabajo](/content/sociologiadeltrabajo/generoytrabajo.html)
 
-[Clase 5 – La problemática de la flexibilidad laboral](https://diegoteca.com.ar/sociologiadeltrabajo/clase-5/)
+[Clase 5 – La problemática de la flexibilidad laboral](/content/sociologiadeltrabajo/clase-5.html)
 
-[Clase 6 – La problemática de la subcontratación laboral](https://diegoteca.com.ar/sociologiadeltrabajo/clase-6/)
+[Clase 6 – La problemática de la subcontratación laboral](/content/sociologiadeltrabajo/clase-6.html)
 
-[Clase 7 – Calificaciones y competencias](https://diegoteca.com.ar/sociologiadeltrabajo/clase-7/)
+[Clase 7 – Calificaciones y competencias](/content/sociologiadeltrabajo/clase-7.html)
 
-[Clase 8 – Globalización](https://diegoteca.com.ar/sociologiadeltrabajo/clase-8/)
+[Clase 8 – Globalización](/content/sociologiadeltrabajo/clase-8.html)
 
-[Clase 9 – Cooperativismo](https://diegoteca.com.ar/sociologiadeltrabajo/clase-9/)
+[Clase 9 – Cooperativismo](/content/sociologiadeltrabajo/clase-9.html)
 
-[Clase 10 – Terrritorio](https://diegoteca.com.ar/sociologiadeltrabajo/clase-10/)
+[Clase 10 – Terrritorio](/content/sociologiadeltrabajo/clase-10.html)
 
-[Clase 11 – Representación y Negociación Colectivas de los Trabajadores](https://diegoteca.com.ar/sociologiadeltrabajo/clase-11/)
+[Clase 11 – Representación y Negociación Colectivas de los Trabajadores](/content/sociologiadeltrabajo/clase-11.html)
 
-[Clase 12 – Pymes](https://diegoteca.com.ar/sociologiadeltrabajo/clase-12/)
+[Clase 12 – Pymes](/content/sociologiadeltrabajo/clase-12.html)
 
 [Notas](https://docs.google.com/spreadsheets/d/15gF-l4wC0-qYiXbSQhmp698EZSh6fHUvYK1b7ymuBwM/edit?usp=sharing)
 

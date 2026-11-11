@@ -1,7 +1,7 @@
 ---
 title: Cevareso
 date: '2019-08-23T10:41:39'
-original_url: https://diegoteca.com.ar/metodocuanti/cevareso/
+original_url: /content/metodocuanti/cevareso.html
 subsite: metodocuanti
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Página de ejemplo
 date: '2017-02-05T18:31:18'
-original_url: https://diegoteca.com.ar/encuestasocioeducativa2016/pagina-ejemplo/
+original_url: /content/encuestasocioeducativa2016/pagina-ejemplo.html
 subsite: encuestasocioeducativa2016
 ---
 

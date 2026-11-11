@@ -1,7 +1,7 @@
 ---
 title: Sistema de carga
 date: '2019-08-17T22:10:13'
-original_url: https://diegoteca.com.ar/usomedicamentos/sistema-de-carga/
+original_url: /content/usomedicamentos/sistema-de-carga.html
 subsite: usomedicamentos
 ---
 

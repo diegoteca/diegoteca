@@ -1,7 +1,7 @@
 ---
 title: Trabajo Práctico Integrador 2C – 2018
 date: '2018-08-28T17:56:09'
-original_url: https://diegoteca.com.ar/metodocuanti/trabajo-practico-integrador-1c-2018-2/
+original_url: /content/metodocuanti/trabajo-practico-integrador-1c-2018-2.html
 subsite: metodocuanti
 ---
 

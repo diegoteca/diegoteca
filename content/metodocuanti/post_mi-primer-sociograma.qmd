@@ -1,0 +1,39 @@
+---
+title: "Mi primer sociograma"
+date: "2018-04-23T13:58:16"
+original_url: "/content/metodocuanti/post_mi-primer-sociograma.html"
+subsite: "metodocuanti"
+---
+
+Tiempo de lectura:  2 minutos
+
+Un [sociograma](https://es.wikipedia.org/wiki/Sociograma) es una herramienta de visualización de las relaciones sociales que conforman un grupo. Su origen tuvo que ver con la [sociometría](https://es.wikipedia.org/wiki/Sociometr%C3%ADa). Al día de hoy, sin embargo, puede considerarse como una de las primeras aplicaciones visuales de lo que posteriormente se denominó [Análisis de Redes Sociales](https://es.wikipedia.org/wiki/An%C3%A1lisis_de_redes#An%C3%A1lisis_de_Redes_Sociales) (Social Network Analysis o SNA), que, a su turno, es una aplicación de una teoría matemática abstracta como es la [teoría de grafos](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_grafos) (Graph Theory). Esta última se origina en un [viejo artículo](https://drive.google.com/file/d/1Vr1BQT-7GAK9ia5YbMfYul4Lwzhv3LVP/view) de Leonard Euler de 1736 conocido como los «[Los siete puentes de Königsberg](https://es.wikipedia.org/wiki/Problema_de_los_puentes_de_K%C3%B6nigsberg)«.
+
+Más allá de sus múltiples aplicaciones sociales, desde un punto de vista metodológico, los sociogramas son interesantes porque a la hora del análisis de sus datos, generalmente, no se requiere como insumo una estructura de datos típica (casos en las filas y variables en las columnas), sino:
+
+a) una matriz de adyacencia (*adjacency matrix*) ([ver](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/mat_adyacencia.csv) un ejemplo acá con los datos de la encuesta de abajo)
+
+b) una lista de adyacencia (*adjacency list*) o
+
+c) una lista de lazos (e*dge list*)
+
+De todos modos, estas 3 últimas estructura de datos son posibles de ser traducidas desde una tabla de datos típica o «data frame» (casos en filas y variables en columnas).
+
+Ir a la [encuesta](https://diegoteca.com.ar/encuestas/index.php/727372?newtest=Y&lang=es) sobre relaciones sociales que servirá de insumo para realizar, posteriormente, un sociograma.
+
+Ir a al [archivo](https://docs.google.com/document/d/1tpOx64zRMpMY3T01d2S3Xf5C6YKjka8LsGbfFHZ7LG8/edit?usp=sharing) que comenta con algún detalle la serie de transformaciones intermedias realizadas a los datos para que, finalmente, se puedan realizar los análisis y visualizaciones de los mismos.
+
+Ir a las [sintaxis](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/Mi%20primer%20Sociograma.sps) de SPSS para creación y modificación de la matriz de datos.
+
+Ir al [script](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/Sociograma%20en%20R.R) de R para la realización de los análisis y gráficos.
+
+Gráficos / Visualizaciones:
+
+* Tipo círculo: [1C 2018](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/8a4dcdeac5dcc095081eb97b86170897a1dd042e/plot_circle.png) / [2C 2018](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/circle_2C_2018.png)
+* Tipo Fruchterman-Reingold: [1C 2018](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/8a4dcdeac5dcc095081eb97b86170897a1dd042e/plot_reingold.png) / [2C 2018](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/reingold_2C_2018.png)
+* Tipo Fruchterman-Reingold por sexo: [2C 2018](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/reingold_sex_2C_2018.png)
+
+Análisis a nivel de nodos (o individual) y a nivel de red (:
+
+* Concepto de [Intermediación](https://es.wikipedia.org/wiki/Centralidad) / Ver [resultados](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/intermediacion.txt). [2C 2018](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/intermediacion_2C_2018.txt)
+* Concepto de [Grado de centralidad](https://es.wikipedia.org/wiki/Grado_(teor%C3%ADa_de_grafos))/ Ver [resultados](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/grado_centralidad.txt). [2C 2018](https://raw.githubusercontent.com/diegoteca/mi_primer_sociograma/master/grado_2C_2018.txt)

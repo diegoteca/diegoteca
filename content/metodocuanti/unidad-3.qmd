@@ -1,7 +1,7 @@
 ---
 title: Unidad 3 – Universo, Población y Muestra
 date: '2017-04-05T11:06:40'
-original_url: https://diegoteca.com.ar/metodocuanti/unidad-3/
+original_url: /content/metodocuanti/unidad-3.html
 subsite: metodocuanti
 ---
 
@@ -29,7 +29,7 @@ En este sentido, en esta unidad se le dedicará bastante atención a las estrate
 **Aplicaciones o ejemplos:**
 
 * [Simulador sobre Teorema Límite Central (Quartulli D., 2011)](https://diegoteca.com.ar/SimuladorTeoremaLimiteCentral.html)![](../../media/metodocuanti/dados.png). [Guía de ejercicios para el simulador](https://docs.google.com/document/d/1aDsL9JCiGK-JXWgLoqp95SmQfU1S0VgmRDs_h4mN8NA/edit?usp=sharing) ![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2017/04/writer-150x150.png)
-* [Diseño muestral estratificado sobre unidades de atención primaria en Florencio Varela (Quartulli D., Riveiro M., 2018)](https://diegoteca.com.ar/muestra-unaj/)![](../../media/metodocuanti/dados.png)
+* [Diseño muestral estratificado sobre unidades de atención primaria en Florencio Varela (Quartulli D., Riveiro M., 2018)](/content/muestra-unaj/inicio.html)![](../../media/metodocuanti/dados.png)
 * [Diseño muestral aleatorio estratificado sobre hogares de la Argentina urbana (Quartulli D., 2016)](https://www.aacademica.org/diego.quartulli/54.pdf) [**![](../../media/metodocuanti/pdf.png)**](https://www.aacademica.org/diego.quartulli/54.pdf)
 
 **Glosario Unidad 3**

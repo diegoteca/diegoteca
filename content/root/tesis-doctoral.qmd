@@ -1,7 +1,7 @@
 ---
 title: Tesis Doctoral
 date: '2017-02-22T01:54:21'
-original_url: https://diegoteca.com.ar/tesis-doctoral/
+original_url: /content/root/tesis-doctoral.html
 subsite: root
 ---
 

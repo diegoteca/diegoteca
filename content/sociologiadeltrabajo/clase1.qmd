@@ -1,7 +1,7 @@
 ---
 title: El trabajo como hecho social. Su desnaturalización.
 date: '2017-03-16T19:43:20'
-original_url: https://diegoteca.com.ar/sociologiadeltrabajo/clase1/
+original_url: /content/sociologiadeltrabajo/clase1.html
 subsite: sociologiadeltrabajo
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Sistema de carga de la encuesta socioeducativa 2016
 date: '2017-02-05T19:16:53'
-original_url: https://diegoteca.com.ar/encuestasocioeducativa2016/
+original_url: /content/encuestasocioeducativa2016/inicio.html
 subsite: encuestasocioeducativa2016
 ---
 

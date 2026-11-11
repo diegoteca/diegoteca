@@ -1,7 +1,7 @@
 ---
 title: Clase 12
 date: '2017-04-27T20:13:22'
-original_url: https://diegoteca.com.ar/sociologiadeltrabajo/clase-12/
+original_url: /content/sociologiadeltrabajo/clase-12.html
 subsite: sociologiadeltrabajo
 ---
 

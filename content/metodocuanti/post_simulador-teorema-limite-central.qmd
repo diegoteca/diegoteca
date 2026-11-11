@@ -1,0 +1,14 @@
+---
+title: "Simulador Teorema Límite Central"
+date: "2017-10-09T00:42:38"
+original_url: "/content/metodocuanti/post_simulador-teorema-limite-central.html"
+subsite: "metodocuanti"
+---
+
+Tiempo de lectura:  < 1 minutos
+
+El Teorema del Límite Central, es un teorema que se aplica tanto en a) la teoría de los errores de medición (específicamente en la precisión de varias mediciones de propiedades cuantitativas de un mismo objeto o caso) como en b) la teoría del muestreo aleatorio. Precisamente sobre esta última aplicación es que trata el simulador. El mismo permite observar el comportamiento de una muestra, específicamente de la media de las medias muestrales, seleccionando diferentes tipos de distribuciones poblacionales como diferentes tamaños de las muestras. Para más información ver la sección ‘Información del modelo’ del Simulador. De forma complementaria, también se encuentra disponible una guía de preguntas.
+
+Ir al [Simulador sobre Teorema del Límite Central (Quartulli D., 2011)](https://diegoteca.com.ar/SimuladorTeoremaLimiteCentral.html)![](../../media/metodocuanti/dados.png)
+
+[Guía de ejercicios para responder simulando con el simulador](https://docs.google.com/document/d/1aDsL9JCiGK-JXWgLoqp95SmQfU1S0VgmRDs_h4mN8NA/edit?usp=sharing) ![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2017/04/writer-150x150.png)

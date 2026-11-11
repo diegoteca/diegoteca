@@ -1,0 +1,34 @@
+---
+title: "Bienestar Adolescente"
+date: "2018-05-21T13:52:35"
+original_url: "/content/metodocuanti/post_mi-primer-indice.html"
+subsite: "metodocuanti"
+---
+
+Tiempo de lectura:  2 minutos
+
+### En su libro de 2011, «[Flourish](https://drive.google.com/file/d/1uEiObv0PUakvaTgf6iUMKQbW8G5rnl6x/view?usp=sharing)«, el Dr. Martin Seligman, Profesor e investigador de la Universidad de Pennsylvania y uno de los fundadores de la Psicología Positiva, define y propone, 5 pilares del bienestar PERMA:
+
+### **–P**ositive Emotion (Emoción Positiva)
+
+### **–E**ngagement (Flujo)
+
+### **–R**elationships (Relaciones)
+
+### **–M**eaning (Significado)
+
+### **–A**ccomplishment  (Perseverancia)
+
+### El cuestionario que se presenta a continuación es el resultado de una investigación ([Kern, et. al. (2015](../../media/metodocuanti/Bienestar-adolescente.pdf)), que tuvo el objetivo de precisar y ajustar aquella teoría (y su respectivo instrumento de medición), para el (sub)dominio empírico de los adolescentes (10-18 años).
+
+### La investigación tuvo como insumo 10 muestras en diferentes países (N=4.480 casos) con un rango de edad comprendido entre los 10 y los 18 años. Lo anterior permitió la simplificación de un modelo anterior y provisorio de 60 ítems en uno más compacto de 20 ítems (4 por cada dimensión) denominado con las siglas EPOCH.
+
+### El cuestionario es interesante porque propone una manera, usual en la [psicometría](https://es.wikipedia.org/wiki/Psicometr%C3%ADa), de hacer observable un constructo sumamente abstracto como «Bienestar Adolescente». En efecto, se propone un índice, esto es, una «medida» compuesta por la agregación de los valores de más de un indicador (variable).
+
+### De manera complementaria, al considerarse un constructo «multidimensional», también se construye un (sub)índice para cada una de sus dimensiones. En este sentido, los investigadores descubrieron que, aun cuando de mantiene mucho del marco teórico original, de las 5 dimensiones encontradas en la población adulta (PERMA) sólo 3 se mantenían (Flujo, Perseverancia, Relaciones) y se agregaron 2 nuevas (Felicidad, Optimismo) para la población adolescente. En otras palabras, el estudio propone una forma específica de operacionalizar el concepto de «bienestar adolescente». El mismo se puede aplicar tanto a individuos, y de forma transitiva, a  poblaciones.
+
+### Ir a [gráfico que visualiza las relaciones entre el índice, sus dimensiones y las preguntas](../../media/metodocuanti/Relaciones-EPOCH.pdf).
+
+### Ir a la [encuesta](https://diegoteca.com.ar/encuestas/index.php/639438?lang=es).
+
+###

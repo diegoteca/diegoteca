@@ -1,7 +1,7 @@
 ---
 title: Representación y Negociación Colectivas de los Trabajadores
 date: '2017-04-27T19:57:33'
-original_url: https://diegoteca.com.ar/sociologiadeltrabajo/clase-11/
+original_url: /content/sociologiadeltrabajo/clase-11.html
 subsite: sociologiadeltrabajo
 ---
 

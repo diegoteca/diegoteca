@@ -1,7 +1,7 @@
 ---
 title: Universidades Nacionales
 date: '2019-08-31T03:45:53'
-original_url: https://diegoteca.com.ar/universidades-nacionales/
+original_url: /content/root/universidades-nacionales.html
 subsite: root
 ---
 

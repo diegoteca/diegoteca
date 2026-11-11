@@ -1,7 +1,7 @@
 ---
 title: Uso de medicamentos
 date: '2019-04-19T00:32:15'
-original_url: https://diegoteca.com.ar/usomedicamentos/
+original_url: /content/usomedicamentos/inicio.html
 subsite: usomedicamentos
 ---
 
@@ -15,7 +15,7 @@ subsite: usomedicamentos
 
 ---
 
-[Acceso al sistema de carga](https://diegoteca.com.ar/usomedicamentos/sistema-de-carga/)
+[Acceso al sistema de carga](/content/usomedicamentos/sistema-de-carga.html)
 
 [Diseño de la muestra](https://docs.google.com/document/d/1r-FnD1SekPTPDejn_mElNbn2-ds1bfJttnR37w2i1FA/edit?usp=sharing)
 

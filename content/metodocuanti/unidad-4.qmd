@@ -1,7 +1,7 @@
 ---
 title: Unidad 4 – Análisis de los datos
 date: '2017-04-29T18:51:02'
-original_url: https://diegoteca.com.ar/metodocuanti/unidad-4/
+original_url: /content/metodocuanti/unidad-4.html
 subsite: metodocuanti
 ---
 
