@@ -4,6 +4,8 @@ project:
   resources:
     - media/
 
+lang: es
+
 website:
   title: "Diegoteca"
   description: "Archivo digital, investigación y docencia de Diego Quartulli"
@@ -39,4 +41,5 @@ format:
   html:
     theme: cosmo
     toc: true
+    toc-title: "En esta página"
     css: styles.css

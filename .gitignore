@@ -6,3 +6,5 @@ media/root/Distancias_PBA.html
 
 /.quarto/
 **/*.quarto_ipynb
+
+_site/media/root/Distancias_PBA.html
