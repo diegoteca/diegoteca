@@ -1,9 +1,15 @@
 ---
-title: Inicio
+title: "Metodología de la Investigación Cuantitativa UNAJ"
 date: '2017-03-20T01:05:50'
 original_url: /content/metodocuanti/inicio.html
 subsite: metodocuanti
 ---
+
+![](/media/metodocuanti/Complejidad-social.jpg){.header-banner}
+
+::: {.banner-caption}
+*En general, la estrategia cuantitativa supone que la complejidad social puede ser conceptualmente diseccionada, y empíricamente observada y/o medida en cada una de sus partes y (posibles) niveles.*
+:::
 
 [Programa](https://docs.google.com/document/d/15ZuHJ1ZM7Z0g0Edt-mv1PCB697-x6-rZfcWdAtd85yM/edit)
 
@@ -11,12 +17,17 @@ subsite: metodocuanti
 
 [Trabajo Integrador Grupal (TIG)](/content/metodocuanti/teg.html)
 
-[Unidad 1 – Delimitación del tema, selección del marco teórico, explicitación de los objetivos y diseños de investigación](/content/metodocuanti/unidad-1.html)
+---
 
-[Unidad 2 – Operacionalización. Conceptualización y observación](/content/metodocuanti/unidad-2.html)
+### Unidades Temáticas
 
-[Unidad 3 – Universo, población y muestra](/content/metodocuanti/unidad-3.html)
+- [Unidad 1 – Delimitación del tema, selección del marco teórico, explicitación de los objetivos y diseños de investigación](/content/metodocuanti/unidad-1.html)
+- [Unidad 2 – Operacionalización. Conceptualización y observación](/content/metodocuanti/unidad-2.html)
+- [Unidad 3 – Universo, población y muestra](/content/metodocuanti/unidad-3.html)
+- [Unidad 4 – Análisis de datos](/content/metodocuanti/unidad-4.html)
 
-[Unidad 4 – Análisis de datos](/content/metodocuanti/unidad-4.html)
+---
 
-[Aplicaciones](/content/metodocuanti/ejercicios-practicos.html)
+### Prácticas
+
+- [Aplicaciones y Ejercicios Prácticos](/content/metodocuanti/ejercicios-practicos.html)

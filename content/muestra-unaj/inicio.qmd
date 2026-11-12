@@ -1,9 +1,11 @@
 ---
-title: Inicio
+title: "Muestra Salud UNAJ 2018"
 date: '2017-08-17T21:24:44'
 original_url: /content/muestra-unaj/inicio.html
 subsite: muestra-unaj
 ---
+
+![](/media/muestra-unaj/random.jpg){.header-banner}
 
 [Muestra UNAJ](https://docs.google.com/document/d/1ylVTsrGnuPyu4vkaBJtn-qsh8RhnQneDk43cc12ddlc/edit?usp=sharing)
 

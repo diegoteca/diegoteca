@@ -7,3 +7,47 @@ body {
   font-weight: 700;
   letter-spacing: 0.5px;
 }
+
+/* Íconos pequeños en línea (documentos, pdfs, enlaces) para que no se expandan */
+img[src*="writer.png"],
+img[src*="pdf.png"],
+img[src*="pdf-icon"],
+img[src*="dados.png"],
+img[src*="video-30"],
+img[src*="video25"],
+img[src*="sheets"],
+img[src*="formularios"],
+img[src*="pie-chart"],
+img[src*="stats"],
+img[src*="spss"],
+img[src*="check25"],
+img[src*="cuestionario20"],
+img[src*="script23"],
+img[src*="impress"],
+img[src*="powerpoint"],
+img[src*="Youtube"] {
+  max-height: 24px !important;
+  width: auto !important;
+  display: inline-block !important;
+  vertical-align: middle !important;
+  margin: 0 4px !important;
+}
+
+/* Banners y sliders de cabecera */
+.header-banner {
+  width: 100%;
+  max-height: 380px;
+  object-fit: cover;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.banner-caption {
+  font-style: italic;
+  color: #666;
+  margin-top: -1.2rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.95rem;
+  text-align: center;
+}

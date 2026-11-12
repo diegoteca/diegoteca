@@ -1,14 +1,20 @@
 ---
-title: Inicio
-date: '2018-10-04T18:59:10'
-original_url: /content/preferenciasycapitalsocial/inicio.html
-subsite: preferenciasycapitalsocial
+title: "Preferencias Sociales y Capital Social"
+date: "2018-10-04T18:59:10"
+original_url: "/content/preferenciasycapitalsocial/inicio.html"
+subsite: "preferenciasycapitalsocial"
 ---
 
-[Proyecto Original](https://drive.google.com/file/d/1Yw_nSHmWhhVjyFMVC0XJc5nWYdIQ3Jcy/view) ![](https://i0.wp.com/diegoteca.com.ar/preferenciasycapitalsocial/wp-content/uploads/sites/11/2018/10/pdf-icon.png?resize=150%2C150&ssl=1)
+![](/media/preferenciasycapitalsocial/Hands.jpg){.header-banner}
 
-[Manual del procedimiento UNAJ – Investiga](/media/preferenciasycapitalsocial/Anexo_IV_Reglamento_Técnico-Adm_2017.pdf)![](https://i0.wp.com/diegoteca.com.ar/preferenciasycapitalsocial/wp-content/uploads/sites/11/2018/10/pdf-icon.png?resize=150%2C150&ssl=1)
+*Las Preferencias Sociales ayudan a las personas y a los grupos que ellas conforman.*
+
+---
+
+[Proyecto Original](https://drive.google.com/file/d/1Yw_nSHmWhhVjyFMVC0XJc5nWYdIQ3Jcy/view) ![](/media/preferenciasycapitalsocial/pdf-icon-e1539200377921.png)
+
+[Manual del procedimiento UNAJ – Investiga](/media/preferenciasycapitalsocial/Anexo_IV_Reglamento_Técnico-Adm_2017.pdf) ![](/media/preferenciasycapitalsocial/pdf-icon-e1539200377921.png)
 
 [Página de producción del proyecto](https://osf.io/8ybze/)
 
-[Publicación final del proyecto](/media/preferenciasycapitalsocial/Combinacion-de-estrategias-experimentales-y-observacionales-para-la-validacion-de-la-medicion-de-preferencias-sociales-Quartulli-D.-Riveiro-M.-2023.pdf) ![](https://i0.wp.com/diegoteca.com.ar/preferenciasycapitalsocial/wp-content/uploads/sites/11/2018/10/pdf-icon.png?resize=150%2C150&ssl=1)
+[Publicación final del proyecto](/media/preferenciasycapitalsocial/Combinacion-de-estrategias-experimentales-y-observacionales-para-la-validacion-de-la-medicion-de-preferencias-sociales-Quartulli-D.-Riveiro-M.-2023.pdf) ![](/media/preferenciasycapitalsocial/pdf-icon-e1539200377921.png)

@@ -1,38 +1,36 @@
 ---
-title: Inicio
+title: "Cultura y Sociología del Trabajo UNAJ"
 date: '2017-03-16T18:34:15'
 original_url: /content/sociologiadeltrabajo/inicio.html
 subsite: sociologiadeltrabajo
 ---
 
+![](/media/sociologiadeltrabajo/Marx-Intercambio-4.png){.header-banner}
+
 [Programa](/media/sociologiadeltrabajo/2016-Programa-Cultura-y-Sociología-del-Trabajo.pdf)
 
 [Formulario para Ficha Bibliográfica](https://goo.gl/forms/Bk3wjWJuRiGQK6s63)
 
-[Clase 1 – Hecho Social y Desnaturalización](/content/sociologiadeltrabajo/clase1.html)
+---
 
-[Clase 2 – El trabajo desde los orígenes del hombre hasta la Segunda Revolución Industrial](/content/sociologiadeltrabajo/clase2.html)
+### Clases
 
-[Clase 3 – El trabajo clásico y los nuevos modelos productivos](/content/sociologiadeltrabajo/trabajoclasico.html)
+- [Clase 1 – Hecho Social y Desnaturalización](/content/sociologiadeltrabajo/clase1.html)
+- [Clase 2 – El trabajo desde los orígenes del hombre hasta la Segunda Revolución Industrial](/content/sociologiadeltrabajo/clase2.html)
+- [Clase 3 – El trabajo clásico y los nuevos modelos productivos](/content/sociologiadeltrabajo/trabajoclasico.html)
+- [Clase 4 – La problemática de Género en el mundo del Trabajo](/content/sociologiadeltrabajo/generoytrabajo.html)
+- [Clase 5 – La problemática de la flexibilidad laboral](/content/sociologiadeltrabajo/clase-5.html)
+- [Clase 6 – La problemática de la subcontratación laboral](/content/sociologiadeltrabajo/clase-6.html)
+- [Clase 7 – Calificaciones y competencias](/content/sociologiadeltrabajo/clase-7.html)
+- [Clase 8 – Globalización](/content/sociologiadeltrabajo/clase-8.html)
+- [Clase 9 – Cooperativismo](/content/sociologiadeltrabajo/clase-9.html)
+- [Clase 10 – Terrritorio](/content/sociologiadeltrabajo/clase-10.html)
+- [Clase 11 – Representación y Negociación Colectivas de los Trabajadores](/content/sociologiadeltrabajo/clase-11.html)
+- [Clase 12 – Pymes](/content/sociologiadeltrabajo/clase-12.html)
 
-[Clase 4 – La problemática de Género en el mundo del Trabajo](/content/sociologiadeltrabajo/generoytrabajo.html)
+---
 
-[Clase 5 – La problemática de la flexibilidad laboral](/content/sociologiadeltrabajo/clase-5.html)
+### Seguimiento y Evaluaciones
 
-[Clase 6 – La problemática de la subcontratación laboral](/content/sociologiadeltrabajo/clase-6.html)
-
-[Clase 7 – Calificaciones y competencias](/content/sociologiadeltrabajo/clase-7.html)
-
-[Clase 8 – Globalización](/content/sociologiadeltrabajo/clase-8.html)
-
-[Clase 9 – Cooperativismo](/content/sociologiadeltrabajo/clase-9.html)
-
-[Clase 10 – Terrritorio](/content/sociologiadeltrabajo/clase-10.html)
-
-[Clase 11 – Representación y Negociación Colectivas de los Trabajadores](/content/sociologiadeltrabajo/clase-11.html)
-
-[Clase 12 – Pymes](/content/sociologiadeltrabajo/clase-12.html)
-
-[Notas](https://docs.google.com/spreadsheets/d/15gF-l4wC0-qYiXbSQhmp698EZSh6fHUvYK1b7ymuBwM/edit?usp=sharing)
-
-[Resumen de entrega de Fichas Bibliográficas](https://docs.google.com/spreadsheets/d/147xdIaAFUyy4v2A-bB4ubPh3kAt6RRlN3MVP1VN654A/edit#gid=1147112080)
+- [Notas](https://docs.google.com/spreadsheets/d/15gF-l4wC0-qYiXbSQhmp698EZSh6fHUvYK1b7ymuBwM/edit?usp=sharing)
+- [Resumen de entrega de Fichas Bibliográficas](https://docs.google.com/spreadsheets/d/147xdIaAFUyy4v2A-bB4ubPh3kAt6RRlN3MVP1VN654A/edit#gid=1147112080)
