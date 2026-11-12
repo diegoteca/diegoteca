@@ -7,4 +7,4 @@ subsite: "metodocuanti"
 
 Tiempo de lectura:  < 1 minutos
 
-[Representaciones Sociales Ambientales](../../media/metodocuanti/ambiente_dimensiones.pdf)
+[Representaciones Sociales Ambientales](/media/metodocuanti/ambiente_dimensiones.pdf)

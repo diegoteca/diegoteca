@@ -5,7 +5,7 @@ original_url: /content/sociologiadeltrabajo/inicio.html
 subsite: sociologiadeltrabajo
 ---
 
-[Programa](/wp-content/uploads/sites/3/2017/03/2016-Programa-Cultura-y-Sociología-del-Trabajo.pdf)
+[Programa](/media/sociologiadeltrabajo/2016-Programa-Cultura-y-Sociología-del-Trabajo.pdf)
 
 [Formulario para Ficha Bibliográfica](https://goo.gl/forms/Bk3wjWJuRiGQK6s63)
 

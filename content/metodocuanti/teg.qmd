@@ -14,4 +14,4 @@ El trabajo integrador grupal (TIG) consta de una serie de entregas sucesivas en 
 5. Construir una matriz de datos, cargarla con los datos de la salida a campo y realizar un análisis de los mismos.
 6. Realizar una presentación que resuma todo lo anterior.
 
-* [![](../../media/metodocuanti/pdf.png) Consignas Trabajo Práctico Integrador](https://docs.google.com/document/d/1s708G1l680z0pLTjhMH4RMig-VLHbYqPsrTpKRe2Z10/edit)
+* [![](/media/metodocuanti/pdf.png) Consignas Trabajo Práctico Integrador](https://docs.google.com/document/d/1s708G1l680z0pLTjhMH4RMig-VLHbYqPsrTpKRe2Z10/edit)

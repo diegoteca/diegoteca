@@ -8,7 +8,7 @@
 
 <meta name="dcterms.date" content="2017-08-22">
 
-<title>Aplicaciones – Diegoteca</title>
+<title>Aplicaciones y Ejercicios Prácticos – Diegoteca</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -37,6 +37,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-listing/list.min.js"></script>
+<script src="../../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../../site_libs/quarto-html/scrollable-regions/scrollable-regions.js" type="module"></script>
@@ -75,7 +77,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-chtml.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../../styles.css">
 </head>
@@ -101,29 +161,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Inicio</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-investigación" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Investigación</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-investigación">    
-        <li>
-    <a class="dropdown-item" href="../../content/root/tesis-doctoral.html">
- <span class="dropdown-text">Tesis Doctoral</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="../../content/root/tesis-doctoral.html"> 
+<span class="menu-text">Tesis Doctoral</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="../../content/root/enrs.html">
- <span class="dropdown-text">ENRS</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../content/root/nodocentes.html">
- <span class="dropdown-text">Nodocentes</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../content/root/universidades-nacionales.html">
- <span class="dropdown-text">Universidades Nacionales</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-docencia" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Docencia</span>
@@ -131,34 +172,42 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-docencia">    
         <li>
     <a class="dropdown-item" href="../../content/metodocuanti/inicio.html">
- <span class="dropdown-text">Metodología Cuantitativa</span></a>
+ <span class="dropdown-text">Metodología de la Investigación Cuantitativa UNAJ</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../content/sociologiadeltrabajo/inicio.html">
- <span class="dropdown-text">Sociología del Trabajo</span></a>
+ <span class="dropdown-text">Cultura y Sociología del Trabajo UNAJ</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-proyectos-unaj" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Proyectos UNAJ</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-investigación" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Investigación</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-proyectos-unaj">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-investigación">    
+        <li>
+    <a class="dropdown-item" href="../../content/root/enrs.html">
+ <span class="dropdown-text">Encuesta Nacional de Relaciones Sociales</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../content/root/nodocentes.html">
+ <span class="dropdown-text">Nodocentes – UNAJ</span></a>
+  </li>  
         <li>
     <a class="dropdown-item" href="../../content/muestra-unaj/inicio.html">
- <span class="dropdown-text">Muestra UNAJ</span></a>
+ <span class="dropdown-text">Muestra Salud UNAJ 2018</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../content/usomedicamentos/uso-de-medicamentos.html">
+ <span class="dropdown-text">Uso de medicamentos – UNAJ</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../content/encuestasocioeducativa2016/bienvenida.html">
- <span class="dropdown-text">Encuesta Socioeducativa</span></a>
+ <span class="dropdown-text">Encuesta Socioeducativa UNAJ 2016</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../../content/preferenciasycapitalsocial/inicio.html">
  <span class="dropdown-text">Preferencias y Capital Social</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="../../content/usomedicamentos/uso-de-medicamentos.html">
- <span class="dropdown-text">Uso de Medicamentos</span></a>
   </li>  
     </ul>
   </li>
@@ -181,7 +230,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Aplicaciones</h1>
+<h1 class="title">Aplicaciones y Ejercicios Prácticos</h1>
 </div>
 
 
@@ -204,10 +253,196 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>En esta sección se agrupan las aplicaciones empíricas, ejercicios prácticos y guías metodológicas desarrolladas para la materia:</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1554760922000" data-listing-file-modified-sort="1794447136625" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="10" data-listing-word-count-sort="1817">
+<a href="../../content/metodocuanti/post_998-2.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Interpretando textos contando y asociando palabras
+</h5>
+<div class="card-text listing-description delink">
+La escritura posiblemente sea uno de los mayores inventos de la humanidad. Permite fijar la palabra e (indirectamente) las ideas sobre un soporte permanente. Esto evita…<em></em>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 8, 2019
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-date-sort="1536095027000" data-listing-file-modified-sort="1794447085912" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="9">
+<a href="../../content/metodocuanti/post_representaciones-sociales-ambientales.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Representaciones Sociales Ambientales
+</h5>
+<div class="card-text listing-description delink">
+Tiempo de lectura: &lt; 1 minutos
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Sep 4, 2018
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-date-sort="1529011722000" data-listing-file-modified-sort="1794447085909" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1138">
+<a href="../../content/metodocuanti/post_mi-primer-mapa.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mi primer mapa
+</h5>
+<div class="card-text listing-description delink">
+Tiempo de lectura: 6 minutos
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Jun 14, 2018
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-date-sort="1526921555000" data-listing-file-modified-sort="1794447085905" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="269">
+<a href="../../content/metodocuanti/post_mi-primer-indice.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Bienestar Adolescente
+</h5>
+<div class="card-text listing-description delink">
+Tiempo de lectura: 2 minutos
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 21, 2018
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-date-sort="1524502696000" data-listing-file-modified-sort="1794406044768" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="322">
+<a href="../../content/metodocuanti/post_mi-primer-sociograma.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mi primer sociograma
+</h5>
+<div class="card-text listing-description delink">
+Tiempo de lectura: 2 minutos
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 23, 2018
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-date-sort="1523657312000" data-listing-file-modified-sort="1794447085903" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="707">
+<a href="../../content/metodocuanti/post_mi-primer-formulario.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Mi primer formulario online
+</h5>
+<div class="card-text listing-description delink">
+Tiempo de lectura: 4 minutos
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 13, 2018
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-date-sort="1523077910000" data-listing-file-modified-sort="1794447085894" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="16" data-listing-word-count-sort="3093">
+<a href="../../content/metodocuanti/post_indice-de-masa-corporal.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Indice de Masa Corporal
+</h5>
+<div class="card-text listing-description delink">
+Tiempo de lectura: 14 minutos
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Apr 7, 2018
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-date-sort="1507520558000" data-listing-file-modified-sort="1794447085914" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="129">
+<a href="../../content/metodocuanti/post_simulador-teorema-limite-central.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Simulador Teorema Límite Central
+</h5>
+<div class="card-text listing-description delink">
+Tiempo de lectura: &lt; 1 minutos
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Oct 9, 2017
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-date-sort="1504628793000" data-listing-file-modified-sort="1794447085896" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="595">
+<a href="../../content/metodocuanti/post_la-medicion-de-la-tierra-por-eratostenes.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+La medición de la tierra por Eratóstenes
+</h5>
+<div class="card-text listing-description delink">
+Tiempo de lectura: 3 minutos
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Sep 5, 2017
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-date-sort="1503604303000" data-listing-file-modified-sort="1794447085899" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<a href="../../content/metodocuanti/post_los-jovenes-pobres-como-objeto-de-politicas-publicas.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Los jóvenes pobres como objeto de políticas públicas
+</h5>
+<div class="card-text listing-description delink">
+Tiempo de lectura: &lt; 1 minutos
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Aug 24, 2017
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";

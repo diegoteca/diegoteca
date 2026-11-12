@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: _site
+  resources:
+    - media/
 
 website:
   title: "Diegoteca"
@@ -10,32 +12,28 @@ website:
     left:
       - text: "Inicio"
         href: index.qmd
-      - text: "Investigación"
-        menu:
-          - text: "Tesis Doctoral"
-            href: content/root/tesis-doctoral.qmd
-          - text: "ENRS"
-            href: content/root/enrs.qmd
-          - text: "Nodocentes"
-            href: content/root/nodocentes.qmd
-          - text: "Universidades Nacionales"
-            href: content/root/universidades-nacionales.qmd
+      - text: "Tesis Doctoral"
+        href: content/root/tesis-doctoral.qmd
       - text: "Docencia"
         menu:
-          - text: "Metodología Cuantitativa"
+          - text: "Metodología de la Investigación Cuantitativa UNAJ"
             href: content/metodocuanti/inicio.qmd
-          - text: "Sociología del Trabajo"
+          - text: "Cultura y Sociología del Trabajo UNAJ"
             href: content/sociologiadeltrabajo/inicio.qmd
-      - text: "Proyectos UNAJ"
+      - text: "Investigación"
         menu:
-          - text: "Muestra UNAJ"
+          - text: "Encuesta Nacional de Relaciones Sociales"
+            href: content/root/enrs.qmd
+          - text: "Nodocentes – UNAJ"
+            href: content/root/nodocentes.qmd
+          - text: "Muestra Salud UNAJ 2018"
             href: content/muestra-unaj/inicio.qmd
-          - text: "Encuesta Socioeducativa"
+          - text: "Uso de medicamentos – UNAJ"
+            href: content/usomedicamentos/uso-de-medicamentos.qmd
+          - text: "Encuesta Socioeducativa UNAJ 2016"
             href: content/encuestasocioeducativa2016/bienvenida.qmd
           - text: "Preferencias y Capital Social"
             href: content/preferenciasycapitalsocial/inicio.qmd
-          - text: "Uso de Medicamentos"
-            href: content/usomedicamentos/uso-de-medicamentos.qmd
 
 format:
   html:

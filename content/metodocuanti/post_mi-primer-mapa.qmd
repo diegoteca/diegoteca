@@ -9,25 +9,25 @@ Tiempo de lectura:  6 minutos
 
 Los mapas, en general, son una representación gráfica, usualmente sobre un plano, que hace visible relaciones entre elementos en algún espacio. Los mapas geográficos (o cartográficos), en particular, suponen unas propiedades métricas que dependen de la proyección utilizada, y posibilitan la toma de medidas de distancias, ángulos o superficies sobre él y su posterior proyección a la realidad. En la antigüedad, cuando sólo se sabía la ubicación específica de pocos elementos (no había GPS), se confiaba en la representación gráfica realizada sobre un plano (mapa) construido sobre esas (pocas) ubicaciones conocidas y se calculaba la posición de los elementos todavía no posicionados, sea tanto una nueva ciudad conocida o la propia ubicación de un viajante.
 
-![](../../media/metodocuanti/eratosthenes.jpg)
+![](/media/metodocuanti/eratosthenes.jpg)
 
 Mapa realizado por Eratóstenes alrededor del 220 AC.
 
 En la actualidad, gracias a la tecnología satelital, se puede tener información de la ubicación específica de (casi) todo lo que a uno le interese. De todos modos, la parte conceptual que se encuentra por detrás de lo anterior es sumamente antigua. En efecto, su creador fue nuestro viejo amigo [Eratóstenes](/content/metodocuanti/post_la-medicion-de-la-tierra-por-eratostenes.html). Él ideó lo que se considera el primer sistema de coordenadas geográfica en donde, bajo el supuesto de la esferidad perfecta (un cuerpo), con sólo 2 datos se podría determinar cualquier posición.
 
-![](../../media/metodocuanti/coordenadas.gif)
+![](/media/metodocuanti/coordenadas.gif)
 
 Sistemas de coordenadas teniendo como referencia una esfera o algún tipo de elipsoide.
 
 De modo conceptualmente independiente, para localizar esa posición en un mapa de 2 dimensiones (plano) se requiere una proyección, esto es, una relación ordenada entre los puntos de la superficie curva de la Tierra, (o en general de cualquier cuerpo) y los de un mapa, (o en general de cualquier plano).
 
-![](../../media/metodocuanti/map-projections.jpg)
+![](/media/metodocuanti/map-projections.jpg)
 
 Proyecciones genéricas. La 3ra es la más similar a la usual proyección de Mercator
 
 Es este sentido, es importante aclarar que todo mapa geográfico de 2 dimensiones implica alguna proyección y que, dependiendo cual sea está última, genera un tipo de distorsión específica. La distorsión se genera al pasar de un mundo con 3 dimensiones (cuerpo geométrico) a un plano con 2 dimensiones (figura geométrica). Por ejemplo la [proyección Mercator](https://es.wikipedia.org/wiki/Proyecci%C3%B3n_de_Mercator), la usual cuando un@ va (¿o iba?) a una librería a comprar un mapa n° 3, supone que Groenlandia aparece aproximadamente del tamaño de África, cuando en realidad el área de África es aproximadamente 14 veces la de Groenlandia. Lo anterior no sucede en los globos terráqueos ya que estos no son proyecciones.
 
-![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/06/erdapfel-1492-600x500.jpg)
+![](/media/metodocuanti/erdapfel-1492.jpg)
 
 El *erdapfel* es el globo terráqueo más antiguo que aún se conserva. Lo construyó un cartógrafo alemán llamado Martin Behaim en 1492.
 
@@ -35,7 +35,7 @@ Aún con sus imperfecciones , los mapas planos también son de gran utilidad por
 
 Snow llegó a su conclusión luego de «georeferenciar» los fallecimientos (gracias a que un cura amigo averiguó donde vivía esa gente!) y observar la cercanía de la mayor cantidad de muertes con una bomba manual de agua pública. Recomendó retirar la manija de la bomba y a los pocos días la epidemia cesó. Posteriormente se supo que los desechos de uno de los pozos ciegos de las casas linderas se había filtrado hacia la capa freática que la bomba extraía el agua.
 
-![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/06/snowmap-1854-527x500.png)
+![](/media/metodocuanti/snowmap-1854.png)
 
 Mapa original de John Snow (1854). Los puntos negros simbolizan fallecimientos.
 

@@ -31,7 +31,7 @@ e) Indicador de una mala nutrición.
 
 Más allá de las múltiples interpretaciones (positivas o negativas), tuvo que pasar un tiempo para alguien propusiera, para el caso de los humanos, alguna relación empírica específica entra la altura y el peso. Ese intento no tuvo, al parecer, una intensión de ofrecer una definición de «gordura» o «delgadez» pero sí allanó el camino. Este hito histórico puede rastrearse su origen escrito en un artículo de [Adolphe Quetelet](https://es.wikipedia.org/wiki/Adolphe_Quetelet) (1796-1874) denominado «[El peso del hombre en edades diferentes» (1832)](https://drive.google.com/file/d/1xktW4d0NyXBYeEABvsCgIhA3_HU6TxD7/view?usp=sharing). En ese artículo Quetelet, luego de analizar una vasta cantidad de datos tanto de adultos como de niñ@s, realiza en la página 28 la siguiente afirmación para el dominio de los adultos (ver la traducción de la cita siguiente desde el francés al español [acá](https://translate.google.com/?hl=es#fr/es/LE%20POIDS%20DE%20L'HOMME%20AUX%20DIFF%C3%89RENS%20AGES%20(1832)%20%0A%0ASi%20nous%20comparons%20maintenant%20entre%20eux%20les%20individus%20enti%C3%A8-%0Arement%20d%C3%A9velopp%C3%A9s%20et%20r%C3%A9guli%C3%A8rement%20construits%2C%20pour%20conna%C3%AEtre%0Ales%20relations%20qui%20peuvent%20exister%20entre%20le%20poids%20et%20la%20taille%2C%20nous%0Atrouverons%20que%20les%20poids%20chez%20les%20individus%20d%C3%A9velopp%C3%A9s%20et%20de%0Ahauteur%20diff%C3%A9rente%2C%20sont%20a%20peu%20pr%C3%A9s%20comme%20les%20carr%C3%A9s%20des%20tailles.%0A(pag%2C%2028))):
 
-![](../../media/metodocuanti/quetelet-quote-1024x233.png)
+![](/media/metodocuanti/quetelet-quote-1024x233.png)
 
 Lo importante del artículo es que Quetelet, propone una relación funcional, especialmente para el dominio de los adultos, en donde la gente usualmente crece de peso en función del cuadrado de su altura. En efecto, el piensa que si el hombre creciera igualmente en las tres dimensiones, el peso debería ser función cúbica de la estatura (o el ancho, o la profundidad). En este sentido, lo que Quetelet afirma puede considerarse como una [proposición](https://es.wikipedia.org/wiki/Proposici%C3%B3n), esto es:
 
@@ -49,17 +49,17 @@ Si se acepta lo anterior, la oración de Quetelet, si se la quiere considerar co
 
 Luego del trabajo de Quetelet se desarrollan una serie de índices que, teniendo como insumo el peso y la altura, tuvieron como objetivo captar distintos aspectos relacionados con la salud. Un ejemplo simple (pero útil en tiempos de escaso alfabetismo, libros y computadoras) es el índice de Broca (1871) que para calcular el peso ideal resta 100 al valor de la altura en centímetros y luego le resta otro 10% a los hombres y un 15% a las mujeres.
 
-Otro ejemplo interesante se dio en el campo de la pediatría donde se utilizó un índice denominado «Pedilisi» con el objetivo de detectar problemas de nutrición, especialmente de raquitismo. El mismo fue inventado por Clemens von Pirquet en contextos de la primera guerra mundial. Por estas latitudes, el pediatra argentino Juan Pedro Garraham fue un activo difusor de este índice en la década del 20.[¹](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/06/El-indice-de-von-Pirquet-para-l%C3%B1a-determinaci%C3%B3n-del-estado-nutritivo-Garraham-P.-1922.pdf)
+Otro ejemplo interesante se dio en el campo de la pediatría donde se utilizó un índice denominado «Pedilisi» con el objetivo de detectar problemas de nutrición, especialmente de raquitismo. El mismo fue inventado por Clemens von Pirquet en contextos de la primera guerra mundial. Por estas latitudes, el pediatra argentino Juan Pedro Garraham fue un activo difusor de este índice en la década del 20.[¹](/media/metodocuanti/El-indice-de-von-Pirquet-para-lña-determinación-del-estado-nutritivo-Garraham-P.-1922.pdf)
 
 Von Pirquet pensaba que dado que a lo largo de la infancia y la adolescencia va cambiando la relación entre la altura de las piernas y la longitud total (el denominado índice de Cormic) a nuestro amigo von se le ocurrió que se podía relacionar el peso con la altura pero con una importante diferencia: La altura se mediría sentado, controlando de ese modo la influencia de la creciente altura de las piernas en las diferentes edades. En efecto, su indice proponía primero multiplicar por 10 el peso, luego aplicarle la raíz cúbica y, posteriormente, dividir el resultado anterior por la altura sentada (desde la cola hasta la punta de la cabeza).
 
-![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/06/Cormic-Quetelet-705x500.png)
+![](/media/metodocuanti/Cormic-Quetelet.png)
 
 La base del índice de Cormic es la diferente proporción de la altura de las piernas en infantes y adultos. En la imagen se observa que en el infante las piernas ocupan 2/5 de la altura total y en los adultos esa relación  pasa a 4/8. Imagen tomada de Quetelet 1832.
 
 Casi 150 años después de lo escrito por Quetelet, un fisiólogo llamado [Ancel Keys](https://es.wikipedia.org/wiki/Ancel_Keys), recupera el trabajo seminal de Quetelet y introduce el concepto de Indice de masa corporal (*Body Mass Index*) en un artículo denominado [«Indices de pesos relativos y obesidad» (1972)](https://drive.google.com/file/d/1JJPkMOkL-HX5tedpztkry7Fkx1eyp5Cz/view?usp=sharing). Teniendo presente el párrafo arriba descripto hace el esfuerzo por traducir las palabras de Quetelet a un tipo de lenguaje específico que no es ni el francés, ni el español ni el inglés. En efecto, lo traduce a un lenguaje formal, proponiendo la siguiente definición del nuevo concepto:
 
-![](../../media/metodocuanti/imc2.png)
+![](/media/metodocuanti/imc2.png)
 
 en donde se expresa que el (valor del) IMC es directamente proporcional al valor del peso (expresados en Kilogramos) e inversamente proporcional al cuadrado del valor de la altura (expresados en metros). En otras palabras, lo que realiza Keys y su gente es proponer:
 

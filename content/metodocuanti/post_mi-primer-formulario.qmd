@@ -13,7 +13,7 @@ El **cuestionario** (*questionary*) es un modo clásico de captar datos de la re
 
 En efecto, el término lingüístico **formulario** (*formulary*), con creciente uso en las últimas décadas asociado al mundo digital, es una expresión alternativa que aquí se las considerará con un significado similar. La razón es que al igual que cuestionario su significado deviene de la unión de una raíz latina como «**formula**» más el sufijo «**ario**» (*ary*), por lo que su etimología sugiere que su significado tiene que ver con lo relacionado con la forma, ya que formula es un diminutivo de la palabra latina **forma**.
 
-![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/04/Formulario-Primer-censo-1869-741x500.png)
+![](/media/metodocuanti/Formulario-Primer-censo-1869.png)
 
 Cuestionario utilizado en el primer censo nacional de población (1869)
 
@@ -36,8 +36,8 @@ En la siguiente actividad se contestará un simple (muy simple!) cuestionario on
 
 [Ir al formulario](https://goo.gl/forms/WLoNeRwkOO1iEo5L2)![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/04/formularios-150x150.png)
 
-[Ir a análisis univariados del formulario](https://docs.google.com/forms/d/e/1FAIpQLScSQeDoycgo_q56U2lGBYBTrlFiIzBBZFyltQoqVQlNc_pdKg/viewanalytics)![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/04/pie-chart-150x150.png)
+[Ir a análisis univariados del formulario](https://docs.google.com/forms/d/e/1FAIpQLScSQeDoycgo_q56U2lGBYBTrlFiIzBBZFyltQoqVQlNc_pdKg/viewanalytics)![](/media/metodocuanti/pie-chart.png)
 
 [Ir a la matriz de datos del formulario](https://docs.google.com/spreadsheets/d/1tGhcWoGQhMO7UAeWpPX9eQ8djldqGsVsfe0iQQKuUfE/edit?usp=sharing) ![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/04/sheets-150x150.png)
 
-[Ir a video de como se puede hacer un formulario de Google (El video es de sólo 2 minutos!)](https://www.youtube.com/watch?v=LMFoajXjwkA) ![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/09/Youtube-150x150.jpg)
+[Ir a video de como se puede hacer un formulario de Google (El video es de sólo 2 minutos!)](https://www.youtube.com/watch?v=LMFoajXjwkA) ![](/media/metodocuanti/Youtube.jpg)

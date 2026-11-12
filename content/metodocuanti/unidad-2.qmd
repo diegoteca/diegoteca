@@ -41,17 +41,17 @@ Si, ahora al menos dentro del contexto de un campo de estudio o disciplina deter
 
 **Bibliografía:**
 
-* [Conceptualización y Medición. Capítulo 5 de Fundamentos de la Investigación Social (Babbie E., 2000)](https://drive.google.com/open?id=0BzS2QMlM5o5MY00tSnJxN2xlTTA) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MY00tSnJxN2xlTTA)
-* [Cualidad, cantidad, seudocantidad y medición en las ciencias sociales. Extracto capítulo 4 de la Relación entre la filosofía y la sociología (Bunge M., 2000)](https://drive.google.com/file/d/1jUhyotSjYoSZKLD5uRw_ot6y-XKC77hb/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MY00tSnJxN2xlTTA)
-* [Operacionalización. Capítulo 6 de Fundamentos de la Investigación Social (Babbie E., 2000)](https://drive.google.com/open?id=0B2chaN7IisSTUDVIazN2dHpzaU0) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0B2chaN7IisSTUDVIazN2dHpzaU0)
-* [La operacionalización de conceptos. Capítulo 4 de Metodología Cuantitativa (Cea D´Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTSGUxeWxPOGFWQmM/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0B2chaN7IisSTUDVIazN2dHpzaU0)
-* [La investigación mediante encuestas. Capítulo 7 de Metodología Cuantitativa (Cea D´Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTSW10Snh3RnlnT1k/view?usp=sharing) [**![](../../media/metodocuanti/pdf.png)**](https://drive.google.com/file/d/0B2chaN7IisSTSW10Snh3RnlnT1k/view?usp=sharing)
+* [Conceptualización y Medición. Capítulo 5 de Fundamentos de la Investigación Social (Babbie E., 2000)](https://drive.google.com/open?id=0BzS2QMlM5o5MY00tSnJxN2xlTTA) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MY00tSnJxN2xlTTA)
+* [Cualidad, cantidad, seudocantidad y medición en las ciencias sociales. Extracto capítulo 4 de la Relación entre la filosofía y la sociología (Bunge M., 2000)](https://drive.google.com/file/d/1jUhyotSjYoSZKLD5uRw_ot6y-XKC77hb/view?usp=sharing)[![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MY00tSnJxN2xlTTA)
+* [Operacionalización. Capítulo 6 de Fundamentos de la Investigación Social (Babbie E., 2000)](https://drive.google.com/open?id=0B2chaN7IisSTUDVIazN2dHpzaU0) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0B2chaN7IisSTUDVIazN2dHpzaU0)
+* [La operacionalización de conceptos. Capítulo 4 de Metodología Cuantitativa (Cea D´Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTSGUxeWxPOGFWQmM/view?usp=sharing)[![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0B2chaN7IisSTUDVIazN2dHpzaU0)
+* [La investigación mediante encuestas. Capítulo 7 de Metodología Cuantitativa (Cea D´Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTSW10Snh3RnlnT1k/view?usp=sharing) [**![](/media/metodocuanti/pdf.png)**](https://drive.google.com/file/d/0B2chaN7IisSTSW10Snh3RnlnT1k/view?usp=sharing)
 
 **Aplicaciones y ejemplos:**
 
-* [Eratóstenes y la medición de la circunferencia de la tierra](/content/metodocuanti/post_la-medicion-de-la-tierra-por-eratostenes.html) ![](../../media/metodocuanti/video-30-e1502475242195.png)
-* [Ejemplo de conceptualización de Clase Social (Quartulli D., 2016)](https://drive.google.com/file/d/0B2chaN7IisSTbENHT01Ma1d6MFU/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing)
-* [Ejemplo de operacionalización sobre Clase Social (Quartulli D., 2016)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing)
+* [Eratóstenes y la medición de la circunferencia de la tierra](/content/metodocuanti/post_la-medicion-de-la-tierra-por-eratostenes.html) ![](/media/metodocuanti/video-30-e1502475242195.png)
+* [Ejemplo de conceptualización de Clase Social (Quartulli D., 2016)](https://drive.google.com/file/d/0B2chaN7IisSTbENHT01Ma1d6MFU/view?usp=sharing)[![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing)
+* [Ejemplo de operacionalización sobre Clase Social (Quartulli D., 2016)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B6XI1GXIKapAbHVoamx5LVEyckU/view?usp=sharing)
 
 **Glosario Unidad 2**
 

@@ -21,7 +21,7 @@ No sólo eso. Al igual que la relación entre datos (ladrillos) y evidencia (la 
 
 A continuación se presenta un pequeño video en donde se muestra una famosa investigación realizada por Eratóstenes hace más de 2000 años. [Eratóstenes](https://es.wikipedia.org/wiki/Erat%C3%B3stenes) (276 ac -194 ac) fue un polímota, esto es, una persona cuyos conocimientos abarca diferentes campos de estudio. Inventó el propio término de geografía (*geographika*) y fue el autor de la primera obra sistemática sobre el tema. Además fue director de la biblioteca de Alejandría en la época Tolomeica.
 
-![](../../media/metodocuanti/Eratostenes.jpg)
+![](/media/metodocuanti/Eratostenes.jpg)
 
 Más allá de la ingeniosa experiencia realizada por Eratóstenes, que obviamente temáticamente no tiene mucho que ver las ciencias sociales, lo interesante es poder utilizar los conceptos vistos en la materia para identificar y clasificar las diferentes operaciones conceptuales y empíricas que él realiza.
 
@@ -29,6 +29,6 @@ la ingeniosa manera que tuvo Eratóstenes para medir la circunferencia de la Tie
 
 Advertencia. Los instrumentos de medición de Eratóstenes fueron principalmente unos palos y sus respectivas sombras.
 
-[Video sobre la estimación de la circunsferencia de la tierra por Eratóstenes ![](../../media/metodocuanti/video-30-e1502475242195.png)](https://drive.google.com/file/d/0B2chaN7IisSTUmJWZHZ6WE5lU3c/view?usp=sharing)
+[Video sobre la estimación de la circunsferencia de la tierra por Eratóstenes ![](/media/metodocuanti/video-30-e1502475242195.png)](https://drive.google.com/file/d/0B2chaN7IisSTUmJWZHZ6WE5lU3c/view?usp=sharing)
 
-[Guía de preguntas sobre el video](https://docs.google.com/document/d/1LcoIkpyAxs3U1yDajINlHPxJEBNQ4g-NvOkR-MGF4Kc/edit?usp=sharing) ![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2017/04/writer-150x150.png)
+[Guía de preguntas sobre el video](https://docs.google.com/document/d/1LcoIkpyAxs3U1yDajINlHPxJEBNQ4g-NvOkR-MGF4Kc/edit?usp=sharing) ![](/media/metodocuanti/writer.png)

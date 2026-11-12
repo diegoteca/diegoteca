@@ -37,12 +37,12 @@ subsite: root
 
 Total
 
-![](https://diegoteca.com.ar/wp-content/uploads/2019/07/wordcloud_total-1024x640.png)
+![](/media/root/wordcloud_total.png)
 
 Mujeres
 
-![](https://diegoteca.com.ar/wp-content/uploads/2019/07/wordcloud_mujer-1024x640.png)
+![](/media/root/wordcloud_mujer.png)
 
 Varones
 
-![](https://diegoteca.com.ar/wp-content/uploads/2019/07/wordcloud_varon-1024x640.png)
+![](/media/root/wordcloud_varon.png)

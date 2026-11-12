@@ -13,16 +13,16 @@ En este camino de sintetizar la información producida en nuestra investigación
 
 **Bibliografía Obligatoria:**
 
-* [Noción y estructura del dato (Abritta G., 1999)](https://drive.google.com/file/d/0B2chaN7IisSTaUFKRmktWFd4d1U/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTaUFKRmktWFd4d1U/view?usp=sharing)
-* [El análisis bivariable. Cap. 15 de Metodología de las Ciencias Sociales (Marradi A., – Archenti N. – Piovani J., 2007)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
-* [El análisis de los datos. Cap. 9 de Metodología Cuantitativa (Cea D’Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTbDB1UnFZSk9rOHc/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
-* [Análisis descriptivo de datos con una variable. Capítulo III.3 en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015)](https://drive.google.com/file/d/12PV_3LUN4u0NTCxjsBeyoMUvbMWjqHMt/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
-* [Uso de tablas dinámicas con Excel (Paredes – Pla, 2017)](../../media/metodocuanti/Análisis-de-datos-con-tablas-dinámicas-en-Excel-Cuantitativa-2018.pptx)[![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/04/powerpoint-150x150.jpg)](https://drive.google.com/file/d/0B2chaN7IisSTbDB1UnFZSk9rOHc/view?usp=sharing)
+* [Noción y estructura del dato (Abritta G., 1999)](https://drive.google.com/file/d/0B2chaN7IisSTaUFKRmktWFd4d1U/view?usp=sharing) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTaUFKRmktWFd4d1U/view?usp=sharing)
+* [El análisis bivariable. Cap. 15 de Metodología de las Ciencias Sociales (Marradi A., – Archenti N. – Piovani J., 2007)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)[![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
+* [El análisis de los datos. Cap. 9 de Metodología Cuantitativa (Cea D’Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTbDB1UnFZSk9rOHc/view?usp=sharing)[![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
+* [Análisis descriptivo de datos con una variable. Capítulo III.3 en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015)](https://drive.google.com/file/d/12PV_3LUN4u0NTCxjsBeyoMUvbMWjqHMt/view?usp=sharing)[![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
+* [Uso de tablas dinámicas con Excel (Paredes – Pla, 2017)](/media/metodocuanti/Análisis-de-datos-con-tablas-dinámicas-en-Excel-Cuantitativa-2018.pptx)[![](/media/metodocuanti/powerpoint.jpg)](https://drive.google.com/file/d/0B2chaN7IisSTbDB1UnFZSk9rOHc/view?usp=sharing)
 
 **Bibliografía Optativa:**
 
-* [Fundamentos de estadística inferencial. Capítulo III.4 en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015)](https://drive.google.com/file/d/1DLXUbcAH6CAp5Wky--gOy8qImcU7TFv0/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
-* [Análisis de tablas de contingencia. Capítulo III.6 en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)](https://drive.google.com/file/d/1FQa6zLgfse4zUoRELC4aoVc4U489yNxE/view?usp=sharing)
+* [Fundamentos de estadística inferencial. Capítulo III.4 en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015)](https://drive.google.com/file/d/1DLXUbcAH6CAp5Wky--gOy8qImcU7TFv0/view?usp=sharing)[![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)
+* [Análisis de tablas de contingencia. Capítulo III.6 en Metodología de la Investigación Social Cuantitativa (López Roldán P. – Fachelli S., 2015) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTZktMV0ZvN19DQ1E/view?usp=sharing)](https://drive.google.com/file/d/1FQa6zLgfse4zUoRELC4aoVc4U489yNxE/view?usp=sharing)
 
 **Glosario Unidad 4**
 

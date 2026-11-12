@@ -7,4 +7,4 @@ subsite: metodocuanti
 
 Un programa de una materia es (o por lo menos debiera ser) para el estudiante una guía como lo es (o era?) una brújula para el navegante.
 
-En [este link](https://docs.google.com/document/d/1mIYy1htEE8AoBNRs3HFHKRWkXGLKR0Vx4Lc_QMudazY/edit?usp=sharing) se podrá acceder al programa de la materia y, si lo prefieren, lo pueden descargar [aquí](../../media/metodocuanti/Programa-Metodología-y-Técnicas-Cuantitativas-1C-2019.docx.pdf) en pdf.
+En [este link](https://docs.google.com/document/d/1mIYy1htEE8AoBNRs3HFHKRWkXGLKR0Vx4Lc_QMudazY/edit?usp=sharing) se podrá acceder al programa de la materia y, si lo prefieren, lo pueden descargar [aquí](/media/metodocuanti/Programa-Metodología-y-Técnicas-Cuantitativas-1C-2019.docx.pdf) en pdf.

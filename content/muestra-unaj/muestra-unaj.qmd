@@ -37,7 +37,7 @@ A) Objetivo y diseño general de la investigación
 
 B) Cuestionario
 
-[Cuestionario (Versión 5)](../../media/muestra-unaj/Encuesta-Accesibilidad-2018-versión-5.pdf)[![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)](https://diegoteca.com.ar/metodocuanti/unidad-1/pdf/)
+[Cuestionario (Versión 5)](/media/muestra-unaj/Encuesta-Accesibilidad-2018-versión-5.pdf)[![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==)](https://diegoteca.com.ar/metodocuanti/unidad-1/pdf/)
 
 ---
 

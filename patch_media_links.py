@@ -1,69 +1,77 @@
 """
-Script de normalización de enlaces de medios en los documentos .qmd.
-Reemplazo los enlaces remotos de diegoteca.com.ar/wp-content/uploads/
-por enlaces relativos a la carpeta local de media descargada.
+Script integral para normalizar y endogenizar todos los enlaces a medios (PDFs, imágenes, etc.)
+en los documentos .qmd hacia la carpeta /media/...
 Comento el código en primera persona.
 """
 
 from pathlib import Path
 import re
 import polars as pl
+from urllib.parse import unquote
 
 BASE_DIR = Path(r"C:\Users\dquar\positron_projects\diegoteca")
 CONTENT_DIR = BASE_DIR / "content"
 CATALOGO_MEDIOS = BASE_DIR / "catalogo_medios.csv"
 
-def normalizar_enlaces():
-    print("[*] Iniciando reemplazo de enlaces a medios locales...")
+def normalizar_todos_los_medios():
+    print("[*] Iniciando normalización completa de medios...")
     if not CATALOGO_MEDIOS.exists():
-        print("[!] No encontré el catálogo de medios.")
+        print("[!] No encontré catalogo_medios.csv")
         return
 
     df_medios = pl.read_csv(CATALOGO_MEDIOS)
     
-    # Armo un diccionario de mapeo de nombres de archivo y URLs a la ruta relativa de Quarto
-    mapa_reemplazos = {}
+    # Armo un mapa por nombre de archivo decodificado (URL-decoded) y minúsculas para machear seguro
+    mapa_archivos = {}
     for fila in df_medios.iter_rows(named=True):
-        source_url = fila["source_url"]
-        local_path = fila["local_path"].replace("\\", "/")
-        # Quito query params si los tiene
-        clean_url = source_url.split("?")[0]
-        nombre_archivo = Path(clean_url).name
+        local_path = fila["local_path"].replace("\\", "/") # ej: media/sociologiadeltrabajo/2016-Programa-...pdf
+        filename = Path(local_path).name
+        web_path = "/" + local_path
         
-        # Mapeo tanto la URL completa como patrones comunes
-        mapa_reemplazos[clean_url] = f"../../{local_path}"
-        mapa_reemplazos[nombre_archivo] = f"../../{local_path}"
+        mapa_archivos[filename] = web_path
+        mapa_archivos[filename.lower()] = web_path
+        mapa_archivos[unquote(filename)] = web_path
+        mapa_archivos[unquote(filename).lower()] = web_path
 
-    archivos_qmd = list(CONTENT_DIR.rglob("*.qmd"))
-    print(f"[*] Total archivos .qmd a procesar: {len(archivos_qmd)}")
+    archivos_qmd = list(CONTENT_DIR.rglob("*.qmd")) + [BASE_DIR / "index.qmd"]
+
+    total_modificados = 0
+
+    # Expresión regular que detecta cualquier link que termine en un archivo de uploads o /wp-content/uploads/
+    patron_media = re.compile(r'(?:https?://[^\s\)\]\"\'<>]*)?/wp-content/uploads/(?:sites/\d+/)?(?:\d{4}/\d{2}/)?([^/\s\)\]\"\'<>]+)')
 
     for qmd in archivos_qmd:
+        if not qmd.exists():
+            continue
         with open(qmd, "r", encoding="utf-8") as f:
             contenido = f.read()
 
-        nuevo_contenido = contenido
-        
-        # Reemplazo URLs de wp-content/uploads por referencias relativas locales
-        # Busco patrones https://diegoteca.com.ar/.../uploads/.../nombre.ext
-        patron_wp = r'https?://diegoteca\.com\.ar/[^\s\)\]\"\'<>]*/wp-content/uploads/[^\s\)\]\"\'<>]+/([^/\s\)\]\"\'<>]+)'
-        
-        def sustituir_url(match):
-            nombre = match.group(1)
-            # Busco en nuestro catálogo si el archivo existe
-            for fila in df_medios.iter_rows(named=True):
-                loc = fila["local_path"].replace("\\", "/")
-                if loc.endswith(nombre):
-                    return f"../../{loc}"
+        def reemplazar(match):
+            raw_filename = match.group(1)
+            decoded_filename = unquote(raw_filename)
+            
+            # Si tiene sufijos de escala tipo -150x150, -500x500 antes de la extensión
+            base_cleaned = re.sub(r'-\d+x\d+(\.[a-zA-Z0-9]+)$', r'\1', decoded_filename)
+
+            for cand in [raw_filename, decoded_filename, base_cleaned, base_cleaned.lower()]:
+                if cand in mapa_archivos:
+                    return mapa_archivos[cand]
+            
+            # Si no está en el mapa, devolvemos el original
             return match.group(0)
 
-        nuevo_contenido = re.sub(patron_wp, sustituir_url, nuevo_contenido)
+        nuevo_contenido = patron_media.sub(reemplazar, contenido)
+
+        # También reemplazo enlaces relativos tipo "../../media/..." por ruta absoluta del sitio "/media/..."
+        nuevo_contenido = re.sub(r'\.\./\.\./media/', '/media/', nuevo_contenido)
 
         if nuevo_contenido != contenido:
             with open(qmd, "w", encoding="utf-8") as f:
                 f.write(nuevo_contenido)
-            print(f"[+] Enlaces actualizados en: {qmd.name}")
+            total_modificados += 1
+            print(f"[+] Actualizado: {qmd.name}")
 
-    print("[✓] Proceso de normalización de enlaces finalizado.")
+    print(f"[✓] Proceso terminado. Total archivos modificados: {total_modificados}")
 
 if __name__ == "__main__":
-    normalizar_enlaces()
+    normalizar_todos_los_medios()

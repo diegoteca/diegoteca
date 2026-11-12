@@ -17,10 +17,10 @@ En este sentido, en esta unidad se le dedicará bastante atención a las estrate
 
 **Bibliografía Obligatoria:**
 
-* [Conceptos de Objeto y de Unidad de Análisis. Población y Muestra. Capítulo 6 de Metodología de las Ciencias Sociales (Marradi A., – Archenti N. – Piovani J., 2007)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
-* [Representatividad y muestreo probabilístico. Extracto Capítulo 1 de Diseño estadístico de la investigación (Kish L., 1995)](https://drive.google.com/file/d/1PyVlGqBntsGKgXFCJdUrNoULqlURG-yV/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
-* [La selección de las unidades de observación. Capítulo 5 de Metodología Cuantitativa (Cea D’Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTcjE2WkhkMTNYRWs/view?usp=sharing)[![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
-* [Qué es un estudio de caso y para que sirve? (Gerring J., 2015[2004])](https://drive.google.com/file/d/1RAuwWz617k0e9Sg90nTMllyuwX_osLfK/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
+* [Conceptos de Objeto y de Unidad de Análisis. Población y Muestra. Capítulo 6 de Metodología de las Ciencias Sociales (Marradi A., – Archenti N. – Piovani J., 2007)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
+* [Representatividad y muestreo probabilístico. Extracto Capítulo 1 de Diseño estadístico de la investigación (Kish L., 1995)](https://drive.google.com/file/d/1PyVlGqBntsGKgXFCJdUrNoULqlURG-yV/view?usp=sharing)[![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
+* [La selección de las unidades de observación. Capítulo 5 de Metodología Cuantitativa (Cea D’Ancona M., 2001)](https://drive.google.com/file/d/0B2chaN7IisSTcjE2WkhkMTNYRWs/view?usp=sharing)[![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
+* [Qué es un estudio de caso y para que sirve? (Gerring J., 2015[2004])](https://drive.google.com/file/d/1RAuwWz617k0e9Sg90nTMllyuwX_osLfK/view?usp=sharing) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/file/d/0B2chaN7IisSTUGhLMHRvMndiZTQ/view?usp=sharing)
 
 **Bibliografía Optativa:**
 
@@ -28,9 +28,9 @@ En este sentido, en esta unidad se le dedicará bastante atención a las estrate
 
 **Aplicaciones o ejemplos:**
 
-* [Simulador sobre Teorema Límite Central (Quartulli D., 2011)](https://diegoteca.com.ar/SimuladorTeoremaLimiteCentral.html)![](../../media/metodocuanti/dados.png). [Guía de ejercicios para el simulador](https://docs.google.com/document/d/1aDsL9JCiGK-JXWgLoqp95SmQfU1S0VgmRDs_h4mN8NA/edit?usp=sharing) ![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2017/04/writer-150x150.png)
-* [Diseño muestral estratificado sobre unidades de atención primaria en Florencio Varela (Quartulli D., Riveiro M., 2018)](/content/muestra-unaj/inicio.html)![](../../media/metodocuanti/dados.png)
-* [Diseño muestral aleatorio estratificado sobre hogares de la Argentina urbana (Quartulli D., 2016)](https://www.aacademica.org/diego.quartulli/54.pdf) [**![](../../media/metodocuanti/pdf.png)**](https://www.aacademica.org/diego.quartulli/54.pdf)
+* [Simulador sobre Teorema Límite Central (Quartulli D., 2011)](https://diegoteca.com.ar/SimuladorTeoremaLimiteCentral.html)![](/media/metodocuanti/dados.png). [Guía de ejercicios para el simulador](https://docs.google.com/document/d/1aDsL9JCiGK-JXWgLoqp95SmQfU1S0VgmRDs_h4mN8NA/edit?usp=sharing) ![](/media/metodocuanti/writer.png)
+* [Diseño muestral estratificado sobre unidades de atención primaria en Florencio Varela (Quartulli D., Riveiro M., 2018)](/content/muestra-unaj/inicio.html)![](/media/metodocuanti/dados.png)
+* [Diseño muestral aleatorio estratificado sobre hogares de la Argentina urbana (Quartulli D., 2016)](https://www.aacademica.org/diego.quartulli/54.pdf) [**![](/media/metodocuanti/pdf.png)**](https://www.aacademica.org/diego.quartulli/54.pdf)
 
 **Glosario Unidad 3**
 

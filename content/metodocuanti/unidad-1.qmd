@@ -16,17 +16,17 @@ Algunas de los temas que se verán en esta unidad pueden considerarse un breve r
 
 Bibliografía Obligatoria:
 
-* [Acerca de lo que es y no es investigación en ciencias sociales. Capítulo 8 de La Trastienda de la Investigación Social (Sautu R., 2001) ![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MUmpXWFlNSmF3TjA)
-* [La organización de la investigación. Capítulo 3 de Metodología Cuantitativa (Cea D’Ancona M., 2001)](https://drive.google.com/open?id=0BzS2QMlM5o5MU294VkhQUzdwOWs) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MU294VkhQUzdwOWs)
-* [El diseño de la investigación. Capítulo 4 de Fundamentos de la Investigación Social (Babbie E., 2000)](../../media/metodocuanti/Babbie.pdf) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MUmpXWFlNSmF3TjA)
-* [Representatividad, aleatorización y realismo. Extracto Capítulo 1 de Diseño Estadístico de la Investigación (Kish L., 1995)](https://drive.google.com/file/d/1Vt8ExE6oFyroe4AciF-przQQkVOaevPi/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MUmpXWFlNSmF3TjA)
-* [Manual de citas y referencias bibliográficas (Pérez M., et. al., 2015)](https://drive.google.com/file/d/1fj2vBoZTii0zeq2tJgjMZm3Q4G1gJSYV/view?usp=sharing) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MU294VkhQUzdwOWs)
+* [Acerca de lo que es y no es investigación en ciencias sociales. Capítulo 8 de La Trastienda de la Investigación Social (Sautu R., 2001) ![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MUmpXWFlNSmF3TjA)
+* [La organización de la investigación. Capítulo 3 de Metodología Cuantitativa (Cea D’Ancona M., 2001)](https://drive.google.com/open?id=0BzS2QMlM5o5MU294VkhQUzdwOWs) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MU294VkhQUzdwOWs)
+* [El diseño de la investigación. Capítulo 4 de Fundamentos de la Investigación Social (Babbie E., 2000)](/media/metodocuanti/Babbie.pdf) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MUmpXWFlNSmF3TjA)
+* [Representatividad, aleatorización y realismo. Extracto Capítulo 1 de Diseño Estadístico de la Investigación (Kish L., 1995)](https://drive.google.com/file/d/1Vt8ExE6oFyroe4AciF-przQQkVOaevPi/view?usp=sharing) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MUmpXWFlNSmF3TjA)
+* [Manual de citas y referencias bibliográficas (Pérez M., et. al., 2015)](https://drive.google.com/file/d/1fj2vBoZTii0zeq2tJgjMZm3Q4G1gJSYV/view?usp=sharing) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MU294VkhQUzdwOWs)
 
 Bibliografía Complementaria:
 
-* [Video introductorio sobre Paradigma Cuantitativo – Extracto Serie Cosmos Capítulo 11 (Sagan C., 1980)](https://drive.google.com/file/d/0B2chaN7IisSTbVd5RWV2TmNrNWs/view?usp=sharing)[![](../../media/metodocuanti/video-30-e1502475242195.png)](https://drive.google.com/file/d/0B2chaN7IisSTbVd5RWV2TmNrNWs/view?usp=sharing)
-* [Similitudes y diferencias entre los enfoques cuantitativo y cualitativo. Capítulo 1 de Metodología de la Investigación (Hernández Sampieri R.,2006)](https://drive.google.com/open?id=0BzS2QMlM5o5MZ1VRVjNqWGNOVUE) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MZ1VRVjNqWGNOVUE)
-* [Planteamiento del problema cuantitativo. Capítulo 3 de Metodología de la Investigación (Hernández Sampieri R., 2006)](https://drive.google.com/open?id=0BzS2QMlM5o5MM3U5NXZuMVRETEU) [![](../../media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MM3U5NXZuMVRETEU)
+* [Video introductorio sobre Paradigma Cuantitativo – Extracto Serie Cosmos Capítulo 11 (Sagan C., 1980)](https://drive.google.com/file/d/0B2chaN7IisSTbVd5RWV2TmNrNWs/view?usp=sharing)[![](/media/metodocuanti/video-30-e1502475242195.png)](https://drive.google.com/file/d/0B2chaN7IisSTbVd5RWV2TmNrNWs/view?usp=sharing)
+* [Similitudes y diferencias entre los enfoques cuantitativo y cualitativo. Capítulo 1 de Metodología de la Investigación (Hernández Sampieri R.,2006)](https://drive.google.com/open?id=0BzS2QMlM5o5MZ1VRVjNqWGNOVUE) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MZ1VRVjNqWGNOVUE)
+* [Planteamiento del problema cuantitativo. Capítulo 3 de Metodología de la Investigación (Hernández Sampieri R., 2006)](https://drive.google.com/open?id=0BzS2QMlM5o5MM3U5NXZuMVRETEU) [![](/media/metodocuanti/pdf.png)](https://drive.google.com/open?id=0BzS2QMlM5o5MM3U5NXZuMVRETEU)
 
 **Glosario Unidad 1**
 

@@ -1,8 +1,14 @@
 ---
-title: Aplicaciones
-date: '2017-08-22T18:49:50'
-original_url: /content/metodocuanti/ejercicios-practicos.html
-subsite: metodocuanti
+title: "Aplicaciones y Ejercicios Prácticos"
+date: "2017-08-22T18:49:50"
+original_url: "/content/metodocuanti/ejercicios-practicos.html"
+subsite: "metodocuanti"
+listing:
+  contents:
+    - "post_*.qmd"
+  type: grid
+  sort: "date desc"
+  fields: [date, title, description]
 ---
 
-
+En esta sección se agrupan las aplicaciones empíricas, ejercicios prácticos y guías metodológicas desarrolladas para la materia:
