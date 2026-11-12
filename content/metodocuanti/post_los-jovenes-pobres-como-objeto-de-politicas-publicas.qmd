@@ -1,9 +1,13 @@
 ---
+image: "/media/metodocuanti/Jóvenes-pobres-como-objeto-de-políticas-públicas-Salvia-Tuñon.png"
 title: "Los jóvenes pobres como objeto de políticas públicas"
 date: "2017-08-24T16:51:43"
 original_url: "/content/metodocuanti/post_los-jovenes-pobres-como-objeto-de-politicas-publicas.html"
 subsite: "metodocuanti"
 ---
+
+
+![Jóvenes pobres como objeto de políticas públicas](/media/metodocuanti/Jóvenes-pobres-como-objeto-de-políticas-públicas-Salvia-Tuñon.png)
 
 Tiempo de lectura:  < 1 minutos
 

@@ -1,9 +1,13 @@
 ---
+image: "/media/metodocuanti/Simulador-Teorema-Límite-Central.png"
 title: "Simulador Teorema Límite Central"
 date: "2017-10-09T00:42:38"
 original_url: "/content/metodocuanti/post_simulador-teorema-limite-central.html"
 subsite: "metodocuanti"
 ---
+
+
+![Simulador Teorema Límite Central](/media/metodocuanti/Simulador-Teorema-Límite-Central.png)
 
 Tiempo de lectura:  < 1 minutos
 

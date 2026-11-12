@@ -1,9 +1,13 @@
 ---
+image: "/media/metodocuanti/Eratóstenes-y-la-medición-de-la-tierra.png"
 title: "La medición de la tierra por Eratóstenes"
 date: "2017-09-05T13:26:33"
 original_url: "/content/metodocuanti/post_la-medicion-de-la-tierra-por-eratostenes.html"
 subsite: "metodocuanti"
 ---
+
+
+![Eratóstenes y la medición de la tierra](/media/metodocuanti/Eratóstenes-y-la-medición-de-la-tierra.png)
 
 Tiempo de lectura:  3 minutos
 

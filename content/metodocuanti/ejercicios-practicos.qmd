@@ -7,8 +7,9 @@ listing:
   contents:
     - "post_*.qmd"
   type: grid
+  grid-columns: 3
   sort: "date desc"
-  fields: [date, title, description]
+  fields: [image, date, title]
 ---
 
 En esta sección se agrupan las aplicaciones empíricas, ejercicios prácticos y guías metodológicas desarrolladas para la materia:

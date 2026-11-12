@@ -1,9 +1,13 @@
 ---
+image: "/media/metodocuanti/rio_contaminado.jpg"
 title: "Representaciones Sociales Ambientales"
 date: "2018-09-04T18:03:47"
 original_url: "/content/metodocuanti/post_representaciones-sociales-ambientales.html"
 subsite: "metodocuanti"
 ---
+
+
+![Representaciones Sociales Ambientales](/media/metodocuanti/rio_contaminado.jpg)
 
 Tiempo de lectura:  < 1 minutos
 

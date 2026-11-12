@@ -1,9 +1,13 @@
 ---
+image: "/media/metodocuanti/Van-Schagen-1689.jpg"
 title: "Mi primer mapa"
 date: "2018-06-14T18:28:42"
 original_url: "/content/metodocuanti/post_mi-primer-mapa.html"
 subsite: "metodocuanti"
 ---
+
+
+![Van Schagen 1689](/media/metodocuanti/Van-Schagen-1689.jpg)
 
 Tiempo de lectura:  6 minutos
 

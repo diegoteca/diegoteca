@@ -1,9 +1,13 @@
 ---
+image: "/media/metodocuanti/primer-formulario.jpg"
 title: "Mi primer formulario online"
 date: "2018-04-13T19:08:32"
 original_url: "/content/metodocuanti/post_mi-primer-formulario.html"
 subsite: "metodocuanti"
 ---
+
+
+![Primer Formulario](/media/metodocuanti/primer-formulario.jpg)
 
 Tiempo de lectura:  4 minutos
 
@@ -34,10 +38,10 @@ Algunas veces los formularios online sólo se usan como un modo de cargar en un 
 
 En la siguiente actividad se contestará un simple (muy simple!) cuestionario online hecho con la aplicación gratuita de [Google Forms](https://www.google.com/intl/es-419_ar/forms/about/).
 
-[Ir al formulario](https://goo.gl/forms/WLoNeRwkOO1iEo5L2)![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/04/formularios-150x150.png)
+[Ir al formulario](https://goo.gl/forms/WLoNeRwkOO1iEo5L2)![](/media/metodocuanti/formularios-e1523995170673.png)
 
 [Ir a análisis univariados del formulario](https://docs.google.com/forms/d/e/1FAIpQLScSQeDoycgo_q56U2lGBYBTrlFiIzBBZFyltQoqVQlNc_pdKg/viewanalytics)![](/media/metodocuanti/pie-chart.png)
 
-[Ir a la matriz de datos del formulario](https://docs.google.com/spreadsheets/d/1tGhcWoGQhMO7UAeWpPX9eQ8djldqGsVsfe0iQQKuUfE/edit?usp=sharing) ![](https://diegoteca.com.ar/metodocuanti/wp-content/uploads/sites/5/2018/04/sheets-150x150.png)
+[Ir a la matriz de datos del formulario](https://docs.google.com/spreadsheets/d/1tGhcWoGQhMO7UAeWpPX9eQ8djldqGsVsfe0iQQKuUfE/edit?usp=sharing) ![](/media/metodocuanti/sheets-e1566567596132.png)
 
 [Ir a video de como se puede hacer un formulario de Google (El video es de sólo 2 minutos!)](https://www.youtube.com/watch?v=LMFoajXjwkA) ![](/media/metodocuanti/Youtube.jpg)

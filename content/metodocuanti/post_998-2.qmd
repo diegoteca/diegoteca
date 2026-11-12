@@ -1,4 +1,5 @@
 ---
+image: "/media/metodocuanti/text_mining.jpg"
 title: "Interpretando textos contando y asociando palabras"
 date: "2019-04-08T19:02:02"
 original_url: "/content/metodocuanti/post_998-2.html"
@@ -9,7 +10,7 @@ subsite: "metodocuanti"
 
 La escritura posiblemente sea uno de los mayores inventos de la humanidad. Permite fijar la palabra e (indirectamente) las ideas sobre un soporte permanente. Esto evita, como dice el refrán, que a las palabras se las lleve el viento, al tiempo que posibilita un nuevo modo de difusión de las ideas (Hodgson and Knudsen 2010). Paradogicamente en la antiguedad el refrán romano *Verba volant scripta manent* (lo dicho vuela, lo escrita queda) se usaba con la intención de destacar lo rígido de lo escrito indicando la dificutad de este para adecuarse a los nuevos hechos (Borges 1980).
 
-![](https://raw.githubusercontent.com/diegoteca/public_files/master/Verba2.png)
+![](/media/metodocuanti/Verba2.png)
 
 Los sabios que convivieron con el inicio de la escritura también pensaban algo similar en cuanto a la mayor flexibilidad de lo hablado frente a lo escrito para responder nuevas preguntas originadas en un debate (Platón 2002). Con el advenimiento de la ciencia esta característica de lo escrito adquiere un nuevo valor. Esto impacta tanto en términos de acceso como de la propia producción de conocimiento. En términos de acceso cualquier persona que supiera descifrar ese código (alfabeto) podría “dialogar” con alguien que vivió hace siglos. Esto último se facilitó mucho con el invento de la imprenta y más actualmente, de modo más crítico, con la difusión de internet. De forma derivada, lo anterior impacta en la propia producción del conocimiento científico al permitir la constrastación y replicabilidad por parte de científicos que no interactuan personalmente con el productor original de una idea.
 
@@ -101,7 +102,7 @@ Por otro lado vemos que la cantidad de **unidades de observación** bajó notori
 
 Llegados a este punto estamos en condiciones de realizar nuestro primer gráfico teniendo como insumo los datos de la tabla 2.
 
-Finalmente, con los mismos insumos, realizamos una nube de palabras que intenta sintetizar la temática del programa de la materia ![](Buscando_files/figure-html/unnamed-chunk-12-1.png)
+Finalmente, con los mismos insumos, realizamos una nube de palabras que intenta sintetizar la temática del programa de la materia ![](/media/metodocuanti/text_mining.jpg)
 
 # Referencias Bibliográficas
 

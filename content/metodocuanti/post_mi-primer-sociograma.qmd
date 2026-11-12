@@ -1,9 +1,13 @@
 ---
+image: "/media/metodocuanti/HistoricalNetworkAnalysis.png"
 title: "Mi primer sociograma"
 date: "2018-04-23T13:58:16"
 original_url: "/content/metodocuanti/post_mi-primer-sociograma.html"
 subsite: "metodocuanti"
 ---
+
+
+![Historical Network Analysis](/media/metodocuanti/HistoricalNetworkAnalysis.png)
 
 Tiempo de lectura:  2 minutos
 
