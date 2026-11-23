@@ -212,7 +212,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p><strong>Aplicaciones o ejemplos:</strong></p>
 <ul>
-<li><a href="https://diegoteca.com.ar/SimuladorTeoremaLimiteCentral.html">Simulador sobre Teorema Límite Central (Quartulli D., 2011)</a><img src="../../media/metodocuanti/dados.png" class="img-fluid">. <a href="https://docs.google.com/document/d/1aDsL9JCiGK-JXWgLoqp95SmQfU1S0VgmRDs_h4mN8NA/edit?usp=sharing">Guía de ejercicios para el simulador</a>&nbsp;<img src="../../media/metodocuanti/writer.png" class="img-fluid"></li>
+<li><a href="../../SimuladorTeoremaLimiteCentral.html">Simulador sobre Teorema Límite Central (Quartulli D., 2011)</a><img src="../../media/metodocuanti/dados.png" class="img-fluid">. <a href="https://docs.google.com/document/d/1aDsL9JCiGK-JXWgLoqp95SmQfU1S0VgmRDs_h4mN8NA/edit?usp=sharing">Guía de ejercicios para el simulador</a>&nbsp;<img src="../../media/metodocuanti/writer.png" class="img-fluid"></li>
 <li><a href="../../content/muestra-unaj/inicio.html">Diseño muestral estratificado sobre unidades de atención primaria en Florencio Varela (Quartulli D., Riveiro M., 2018)</a><img src="../../media/metodocuanti/dados.png" class="img-fluid"></li>
 <li><a href="https://www.aacademica.org/diego.quartulli/54.pdf">Diseño muestral aleatorio estratificado sobre hogares de la Argentina urbana (Quartulli D., 2016)</a>&nbsp;<a href="https://www.aacademica.org/diego.quartulli/54.pdf"><strong><img src="../../media/metodocuanti/pdf.png" class="img-fluid"></strong></a></li>
 </ul>
@@ -295,7 +295,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/diegoteca\.com\.ar");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

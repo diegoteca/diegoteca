@@ -212,7 +212,7 @@ ul.task-list li input[type="checkbox"] {
 <ol start="2" type="A">
 <li>Cuestionario</li>
 </ol>
-<p><a href="../../media/muestra-unaj/Encuesta-Accesibilidad-2018-versión-5.pdf">Cuestionario (Versión 5)</a><a href="https://diegoteca.com.ar/metodocuanti/unidad-1/pdf/"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==" class="img-fluid"></a></p>
+<p><a href="../../media/muestra-unaj/Encuesta-Accesibilidad-2018-versión-5.pdf">Cuestionario (Versión 5)</a><a href="../../media/muestra-unaj/Encuesta-Accesibilidad-2018-versión-5.pdf"><img src="../../media/metodocuanti/pdf.png" class="img-fluid"></a></p>
 <hr>
 <ol start="3" type="A">
 <li>Sistema de carga online</li>
@@ -324,7 +324,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/diegoteca\.com\.ar");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

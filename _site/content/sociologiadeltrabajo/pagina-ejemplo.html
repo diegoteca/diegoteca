@@ -200,7 +200,7 @@ ul.task-list li input[type="checkbox"] {
 <blockquote class="blockquote">
 <p>La empresa XYZ se fundó en 1971 y ha estado ofreciendo «cosas» de calidad al público desde entonces. Situada en Madrid, XYZ emplea a más de 2.000 personas y hace todo tipo de cosas sorprendentes para la comunidad de Madrid.</p>
 </blockquote>
-<p>Si eres nuevo en WordPress deberías ir a <a href="https://diegoteca.com.ar/sociologiadeltrabajo/wp-admin/">tu escritorio</a> para borrar esta página y crear páginas nuevas con tu propio contenido. ¡Pásalo bien!</p>
+<p>Si eres nuevo en WordPress deberías ir a tu escritorio para borrar esta página y crear páginas nuevas con tu propio contenido. ¡Pásalo bien!</p>
 
 
 
@@ -278,7 +278,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/diegoteca\.com\.ar");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

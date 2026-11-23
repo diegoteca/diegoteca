@@ -28,7 +28,7 @@ En este sentido, en esta unidad se le dedicará bastante atención a las estrate
 
 **Aplicaciones o ejemplos:**
 
-* [Simulador sobre Teorema Límite Central (Quartulli D., 2011)](https://diegoteca.com.ar/SimuladorTeoremaLimiteCentral.html)![](/media/metodocuanti/dados.png). [Guía de ejercicios para el simulador](https://docs.google.com/document/d/1aDsL9JCiGK-JXWgLoqp95SmQfU1S0VgmRDs_h4mN8NA/edit?usp=sharing) ![](/media/metodocuanti/writer.png)
+* [Simulador sobre Teorema Límite Central (Quartulli D., 2011)](/SimuladorTeoremaLimiteCentral.html)![](/media/metodocuanti/dados.png). [Guía de ejercicios para el simulador](https://docs.google.com/document/d/1aDsL9JCiGK-JXWgLoqp95SmQfU1S0VgmRDs_h4mN8NA/edit?usp=sharing) ![](/media/metodocuanti/writer.png)
 * [Diseño muestral estratificado sobre unidades de atención primaria en Florencio Varela (Quartulli D., Riveiro M., 2018)](/content/muestra-unaj/inicio.html)![](/media/metodocuanti/dados.png)
 * [Diseño muestral aleatorio estratificado sobre hogares de la Argentina urbana (Quartulli D., 2016)](https://www.aacademica.org/diego.quartulli/54.pdf) [**![](/media/metodocuanti/pdf.png)**](https://www.aacademica.org/diego.quartulli/54.pdf)
 

@@ -3,12 +3,14 @@ project:
   output-dir: _site
   resources:
     - media/
+    - SimuladorTeoremaLimiteCentral.html
 
 lang: es
 
 website:
   title: "Diegoteca"
   description: "Archivo digital, investigación y docencia de Diego Quartulli"
+  site-url: https://diegoteca.com.ar
   navbar:
     background: primary
     left:
